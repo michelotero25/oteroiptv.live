@@ -426,18 +426,1093 @@ http://31.220.41.88:8081/live/us-vh1.stream/playlist.m3u8
 http://31.220.41.88:8081/live/nl-ziggoracing.stream/playlist.m3u8
 #EXTINF:-1,Ziggo Sport Select
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/playlist.m3u8
+
 #EXTINF:-1,Ziggo Sport Voetbal
 http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/playlist.m3u8
 
-https://t.me/NSFWTV/2552
-Arion Sherwinds, [Jul 11, 2021 at 12:42 AM]
-ESPN+
+#EXTINF:-1,ESPN+
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-ESPN 2
+#EXTINF:-1,ESPN 2
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-UFC FIGHTS PASS UK
+#EXTINF:-1,UFC FIGHTS PASS UK
 http://stream.tvtap.live:8081/live/uk-ufcfight1.stream/playlist.m3u8
 
+#EXTINF:-1,Cheddar News HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1
+#EXTINF:-1,CON TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3
+#EXTINF:-1,HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+#EXTINF:-1,OAN HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=23
+#EXTINF:-1,CON TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=24
+#EXTINF:-1,Impact! Plus Wrestling HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
+#EXTINF:-1,AWE HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=32
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=39
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
+#EXTINF:-1,Movies Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=42
+#EXTINF:-1,Love Destination
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=43
+#EXTINF:-1,Love Destination
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=44
+#EXTINF:-1,Cinema HD https://iptv.live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=45
+#EXTINF:-1,Cooking Panda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
+#EXTINF:-1,Cooking Panda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=48
+#EXTINF:-1,KIDSFLIX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=50
+#EXTINF:-1,DRINK TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=52
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=55
+#EXTINF:-1,Canela News HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=56
+#EXTINF:-1,DSTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=57
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=58
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=59
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=60
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=61
+#EXTINF:-1,DRINK TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=62
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=63
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=64
+#EXTINF:-1,Canela News HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
+#EXTINF:-1,Social Club TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=66
+#EXTINF:-1,Jiu Jitsu Fight Team HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=68
+#EXTINF:-1,Electric Now HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=70
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=71
+#EXTINF:-1,Movies Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=73
+#EXTINF:-1,The Archive HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
+#EXTINF:-1,Cheddar HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=76
+#EXTINF:-1,Nasdaq HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=77
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=78
+#EXTINF:-1,Audio Dungeon HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=79
+#EXTINF:-1,playlist.m3u8?network_id=80
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=81
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=82
+#EXTINF:-1,Камин HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=84
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=85
+#EXTINF:-1,Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=93
+#EXTINF:-1,Live Show HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=94
+#EXTINF:-1,Cheddar News HD https://iptv.live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
+#EXTINF:-1,playlist.m3u8?network_id=113
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=113
+#EXTINF:-1,playlist.m3u8?network_id=114
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=114
+#EXTINF:-1,playlist.m3u8?network_id=115
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=115
+#EXTINF:-1,playlist.m3u8?network_id=117
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=117
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=118
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+#EXTINF:-1,Hope HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=121
+#EXTINF:-1,XTREME HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=122
+#EXTINF:-1,WINX CLUB
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
+#EXTINF:-1,playlist.m3u8?network_id=134
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=134
+#EXTINF:-1,Popstar! TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=137
+#EXTINF:-1,BREAL TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=138
+#EXTINF:-1,Holly Wire HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=140
+#EXTINF:-1,Holly Wire HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=141
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=142
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=146
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
+#EXTINF:-1,DRINK TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=149
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=152
+#EXTINF:-1,Jiu Jitsu Fight Team HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=153
+#EXTINF:-1,BREAL TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=154
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=155
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=157
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=161
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=162
+#EXTINF:-1,DRINK TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=164
+#EXTINF:-1,Pizza Show HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=165
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=167
+#EXTINF:-1,FIGHT Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=168
+#EXTINF:-1,playlist.m3u8?network_id=169
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=169
+#EXTINF:-1,Canela TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=170
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=172
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=173
+#EXTINF:-1,Gamers
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=174
+#EXTINF:-1,Gamers
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=175
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=176
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=177
+#EXTINF:-1,playlist.m3u8?network_id=178
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=178
+#EXTINF:-1,DRINK TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=179
+#EXTINF:-1,Pizza Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=180
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=182
+#EXTINF:-1,FIGHT Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=183
+#EXTINF:-1,SC HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=184
+#EXTINF:-1,Canela TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=185
+#EXTINF:-1,PurpleTurple HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=188
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=189
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=190
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=191
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=192
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=193
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=195
+#EXTINF:-1,PurpleTurple HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=199
+#EXTINF:-1,playlist.m3u8?network_id=201
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=201
+#EXTINF:-1,playlist.m3u8?network_id=202
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=202
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=203
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=204
+#EXTINF:-1,DRINK TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=206
+#EXTINF:-1,playlist.m3u8?network_id=207
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=207
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=209
+#EXTINF:-1,FIGHT Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=210
+#EXTINF:-1,SC HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=211
+#EXTINF:-1,playlist.m3u8?network_id=212
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=212
+#EXTINF:-1,playlist.m3u8?network_id=214
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=214
+#EXTINF:-1,playlist.m3u8?network_id=217
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=217
+#EXTINF:-1,playlist.m3u8?network_id=219
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=219
+#EXTINF:-1,playlist.m3u8?network_id=220
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=220
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=221
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=222
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=223
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=224
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=225
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=227
+#EXTINF:-1,playlist.m3u8?network_id=228
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=228
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=229
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=230
+#EXTINF:-1,DRINK TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=232
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=234
+#EXTINF:-1,playlist.m3u8?network_id=236
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=236
+#EXTINF:-1,playlist.m3u8?network_id=237
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=237
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=239
+#EXTINF:-1,playlist.m3u8?network_id=243
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=243
+#EXTINF:-1,playlist.m3u8?network_id=244
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=244
+#EXTINF:-1,playlist.m3u8?network_id=245
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=245
+#EXTINF:-1,playlist.m3u8?network_id=246
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=246
+#EXTINF:-1,playlist.m3u8?network_id=247
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=247
+#EXTINF:-1,playlist.m3u8?network_id=248
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=248
+#EXTINF:-1,playlist.m3u8?network_id=249
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=249
+#EXTINF:-1,playlist.m3u8?network_id=250
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=250
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=251
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=252
+#EXTINF:-1,playlist.m3u8?network_id=263
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=263
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=264
+#EXTINF:-1,Kartoon Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=265
+#EXTINF:-1,Kartoon Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=271
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=272
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=275
+#EXTINF:-1,playlist.m3u8?network_id=276
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=276
+#EXTINF:-1,NEXXO TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=277
+#EXTINF:-1,Latin Music TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=278
+#EXTINF:-1,Movies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=279
+#EXTINF:-1,EL VIVIENTE TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=280
+#EXTINF:-1,BIG Network HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=283
+#EXTINF:-1,playlist.m3u8?network_id=284
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=284
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=285
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=286
+#EXTINF:-1,playlist.m3u8?network_id=287
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=287
+#EXTINF:-1,TBN HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=290
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=291
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=292
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=293
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=294
+#EXTINF:-1,Billiard TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=297
+#EXTINF:-1,BANG SHOWBIZ HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=305
+#EXTINF:-1,playlist.m3u8?network_id=306
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=306
+#EXTINF:-1,playlist.m3u8?network_id=307
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=307
+#EXTINF:-1,playlist.m3u8?network_id=308
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=308
+#EXTINF:-1,Comedy Dynamics HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=309
+#EXTINF:-1,BKFC HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=310
+#EXTINF:-1,Mello TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=311
+#EXTINF:-1,TBD. HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=312
+#EXTINF:-1,playlist.m3u8?network_id=315
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=315
+#EXTINF:-1,HDFashion TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=316
+#EXTINF:-1,CHARGE! HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=317
+#EXTINF:-1,NASA TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=318
+#EXTINF:-1,7 Microvision HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=319
+#EXTINF:-1,TeleSatellite TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=321
+#EXTINF:-1,CARIBETELE HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=323
+#EXTINF:-1,SAN ISIDRO TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=324
+#EXTINF:-1,Radio 105 HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=325
+#EXTINF:-1,Teleuniverso TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=327
+#EXTINF:-1,Satellite TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=329
+#EXTINF:-1,Tele Caribe HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=331
+#EXTINF:-1,Miami TV HD Latino
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=334
+#EXTINF:-1,Miami TV Jenny Live HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=335
+#EXTINF:-1,Miami TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=336
+#EXTINF:-1,Bellavision HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=338
+#EXTINF:-1,LUNA TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=339
+#EXTINF:-1,TELETUR HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=340
+#EXTINF:-1,PLAY TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=341
+#EXTINF:-1,DOMART Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=342
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=345
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=347
+#EXTINF:-1,Tele5LA5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=356
+#EXTINF:-1,Medicos TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=357
+#EXTINF:-1,Satellite TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=358
+#EXTINF:-1,CALI TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=359
+#EXTINF:-1,SURAM TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=361
+#EXTINF:-1,Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=362
+#EXTINF:-1,Satellite TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=365
+#EXTINF:-1,playlist.m3u8?network_id=366
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=366
+#EXTINF:-1,playlist.m3u8?network_id=367
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=367
+#EXTINF:-1,Tele Nord HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=368
+#EXTINF:-1,UCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=370
+#EXTINF:-1,UES TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=372
+#EXTINF:-1,EP HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=373
+#EXTINF:-1,AV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=374
+#EXTINF:-1,TELE VIDA NETWORK HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=375
+#EXTINF:-1,Hechos Ecuador HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=378
+#EXTINF:-1,NEWSMAX HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=380
+#EXTINF:-1,Tipping Point HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=381
+#EXTINF:-1,Campus TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=383
+#EXTINF:-1,WOW TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=385
+#EXTINF:-1,COLOSAL TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=387
+#EXTINF:-1,DIOS Tele HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=388
+#EXTINF:-1,LEBRIJA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=390
+#EXTINF:-1,playlist.m3u8?network_id=391
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=391
+#EXTINF:-1,LA Radio 247 FM HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=393
+#EXTINF:-1,CGTN Espanol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=394
+#EXTINF:-1,CBN Espanol HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=395
+#EXTINF:-1,RTV Marti HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=396
+#EXTINF:-1,WorldNews
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=397
+#EXTINF:-1,Jesus TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=398
+#EXTINF:-1,CBN Family HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=401
+#EXTINF:-1,playlist.m3u8?network_id=402
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=402
+#EXTINF:-1,Nothing Seripted HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=403
+#EXTINF:-1,playlist.m3u8?network_id=404
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=404
+#EXTINF:-1,playlist.m3u8?network_id=405
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=405
+#EXTINF:-1,StyleCityMusic2 HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=406
+#EXTINF:-1,playlist.m3u8?network_id=407
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=407
+#EXTINF:-1,playlist.m3u8?network_id=408
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=408
+#EXTINF:-1,playlist.m3u8?network_id=410
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=410
+#EXTINF:-1,Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=412
+#EXTINF:-1,Festivale Television
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=413
+#EXTINF:-1,Country Music Video
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=414
+#EXTINF:-1,CNS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=416
+#EXTINF:-1,TCM HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=418
+#EXTINF:-1,8 Канал
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=419
+#EXTINF:-1,RETRO CZ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=421
+#EXTINF:-1,playlist.m3u8?network_id=424
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+#EXTINF:-1,Mukbang TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=426
+#EXTINF:-1,Billiard TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=433
+#EXTINF:-1,Whosfan News HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=435
+#EXTINF:-1,Music HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=436
+#EXTINF:-1,UBF HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=438
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=440
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=441
+#EXTINF:-1,Baby First
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=442
+#EXTINF:-1,Motorvision TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=443
+#EXTINF:-1,Motorvision TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=444
+#EXTINF:-1,Motorvision TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=445
+#EXTINF:-1,UBF HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=446
+#EXTINF:-1,UBF HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=447
+#EXTINF:-1,UBF HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=448
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=449
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=450
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=451
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=452
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=453
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=454
+#EXTINF:-1,playlist.m3u8?network_id=455
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=455
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=456
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=457
+#EXTINF:-1,playlist.m3u8?network_id=459
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=459
+#EXTINF:-1,Motorvision TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=460
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=461
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=467
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=469
+#EXTINF:-1,Love
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=470
+#EXTINF:-1,DRINK TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=471
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=472
+#EXTINF:-1,Channel FIGHT HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=473
+#EXTINF:-1,UBF HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=474
+#EXTINF:-1,playlist.m3u8?network_id=475
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=475
+#EXTINF:-1,playlist.m3u8?network_id=476
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=476
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=477
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=479
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=480
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=484
+#EXTINF:-1,CBSN HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=486
+#EXTINF:-1,Laff HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=487
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=489
+#EXTINF:-1,playlist.m3u8?network_id=499
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=499
+#EXTINF:-1,TNA Wrestling HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=510
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=511
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=512
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=513
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
+#EXTINF:-1,Fuel TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=516
+#EXTINF:-1,Conversations With Coleman HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=517
+#EXTINF:-1,Conversations With Coleman HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=518
+#EXTINF:-1,Conversations With Coleman HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=519
+#EXTINF:-1,Conversations With Coleman HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=520
+#EXTINF:-1,playlist.m3u8?network_id=521
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=521
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=522
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=523
+#EXTINF:-1,Stingray Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=525
+#EXTINF:-1,Fight Tyme
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=526
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=532
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=533
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=534
+#EXTINF:-1,playlist.m3u8?network_id=535
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1,Space Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=536
+#EXTINF:-1,Space Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=537
+#EXTINF:-1,playlist.m3u8?network_id=538
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=538
+#EXTINF:-1,playlist.m3u8?network_id=539
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=539
+#EXTINF:-1,playlist.m3u8?network_id=540
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=541
+#EXTINF:-1,Dove Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=543
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
+#EXTINF:-1,Kartoon Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=548
+#EXTINF:-1,playlist.m3u8?network_id=549
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=549
+#EXTINF:-1,playlist.m3u8?network_id=550
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=550
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=551
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=552
+#EXTINF:-1,playlist.m3u8?network_id=560
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=560
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=562
+#EXTINF:-1,playlist.m3u8?network_id=563
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=563
+#EXTINF:-1,playlist.m3u8?network_id=564
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=564
+#EXTINF:-1,Space Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+#EXTINF:-1,playlist.m3u8?network_id=566
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
+#EXTINF:-1,playlist.m3u8?network_id=567
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
+#EXTINF:-1,Stingray Qello HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
+#EXTINF:-1,Fashion TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=569
+#EXTINF:-1,Stingray Naturescape HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
+#EXTINF:-1,Fuel TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=571
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=574
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=575
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=577
+#EXTINF:-1,Fuel TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=579
+#EXTINF:-1,Comedy Dynamics HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
+#EXTINF:-1,playlist.m3u8?network_id=581
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=581
+#EXTINF:-1,Stingray Qello HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=582
+#EXTINF:-1,Fuel TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=583
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=586
+#EXTINF:-1,playlist.m3u8?network_id=587
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=587
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=592
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1,Animations
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=596
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=597
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=598
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=602
+#EXTINF:-1,Fashion TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=604
+#EXTINF:-1,Billiard TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=605
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=607
+#EXTINF:-1,Fuel TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=608
+#EXTINF:-1,Clubbing TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=609
+#EXTINF:-1,Everything K-POP HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=612
+#EXTINF:-1,Mukbang TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=613
+#EXTINF:-1,The Canadian Press HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=614
+#EXTINF:-1,The Canadian Press HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=615
+#EXTINF:-1,The Canadian Press HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=616
+#EXTINF:-1,Cheddar News HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=617
+#EXTINF:-1,playlist.m3u8?network_id=618
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=618
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=619
+#EXTINF:-1,Cheddar News HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=620
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=621
+#EXTINF:-1,SBS HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
+#EXTINF:-1,YG TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=623
+#EXTINF:-1,M6 HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=625
+#EXTINF:-1,K-POP HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=631
+#EXTINF:-1,Motorvision TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=633
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=634
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=642
+#EXTINF:-1,Clubbing TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=643
+#EXTINF:-1,playlist.m3u8?network_id=644
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
+#EXTINF:-1,Space Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=645
+#EXTINF:-1,CBS HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=646
+#EXTINF:-1,playlist.m3u8?network_id=647
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=647
+#EXTINF:-1,BTN HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=648
+#EXTINF:-1,playlist.m3u8?network_id=649
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=649
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1,Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1,Canela TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1,Fight Sport HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=657
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=658
+#EXTINF:-1,playlist.m3u8?network_id=660
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=660
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=667
+#EXTINF:-1,Music HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=668
+#EXTINF:-1,playlist.m3u8?network_id=669
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=669
+#EXTINF:-1,Everiting K-POP HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=670
+#EXTINF:-1,Championship CFA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=673
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=675
+#EXTINF:-1,BIG CITY TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=677
+#EXTINF:-1,TNA Wrestling HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
+#EXTINF:-1,OAN HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=680
+#EXTINF:-1,One America HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=681
+#EXTINF:-1,playlist.m3u8?network_id=682
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=682
+#EXTINF:-1,AXS TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
+#EXTINF:-1,Everiting K-POP HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=684
+#EXTINF:-1,Fashion TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=685
+#EXTINF:-1,Billiards TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=688
+#EXTINF:-1,playlist.m3u8?network_id=689
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=689
+#EXTINF:-1,Dream Cars HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=692
+#EXTINF:-1,Dog in the Yard HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=693
+#EXTINF:-1,playlist.m3u8?network_id=694
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=694
+#EXTINF:-1,PBS News HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=695
+#EXTINF:-1,Kartoon Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=696
+#EXTINF:-1,Outdoor America HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=697
+#EXTINF:-1,Fuel TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=698
+#EXTINF:-1,Duck Hunting HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=699
+#EXTINF:-1,The Cycling Channel HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=700
+#EXTINF:-1,Paragliding TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=701
+#EXTINF:-1,PBS News HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=702
+#EXTINF:-1,playlist.m3u8?network_id=703
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=703
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=707
+#EXTINF:-1,World Of Dance HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=708
+#EXTINF:-1,HOY PINOY HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=709
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=710
+#EXTINF:-1,Mubeat HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=712
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=713
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=714
+#EXTINF:-1,Austin City Limits Music Festival HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=715
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=716
+#EXTINF:-1,Championship CFA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=717
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=718
+#EXTINF:-1,Austin City Limits Music Festival HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=719
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=720
+#EXTINF:-1,Championship CFA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=721
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=722
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=723
+#EXTINF:-1,CFA Fight Sport HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=724
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=725
+#EXTINF:-1,CFA Fight Sport HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=726
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=727
+#EXTINF:-1,Austin City Limits Music Festival HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=728
+#EXTINF:-1,playlist.m3u8?network_id=729
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=729
+#EXTINF:-1,playlist.m3u8?network_id=730
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=730
+#EXTINF:-1,playlist.m3u8?network_id=731
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=731
+#EXTINF:-1,Championship Drag Racing
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
+#EXTINF:-1,Championship Drag Racing
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=733
+#EXTINF:-1,playlist.m3u8?network_id=734
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=734
+#EXTINF:-1,playlist.m3u8?network_id=735
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=735
+#EXTINF:-1,Canela TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=736
+#EXTINF:-1,Clubbing TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=738
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=740
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+#EXTINF:-1,Movies HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1,Gamers HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=744
+#EXTINF:-1,playlist.m3u8?network_id=745
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=745
+#EXTINF:-1,playlist.m3u8?network_id=746
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=746
+#EXTINF:-1,6 Кадров
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=747
+#EXTINF:-1,Документальный Канал
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=748
+#EXTINF:-1,playlist.m3u8?network_id=749
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=749
+#EXTINF:-1,playlist.m3u8?network_id=751
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=751
+#EXTINF:-1,Outdoor America HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=752
+#EXTINF:-1,Clubbing TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=753
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=754
+#EXTINF:-1,Face to Face
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=755
+#EXTINF:-1,Motorvision TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
+#EXTINF:-1,Motorvision TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+#EXTINF:-1,MIH NOW HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=759
+#EXTINF:-1,playlist.m3u8?network_id=760
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=760
+#EXTINF:-1,playlist.m3u8?network_id=762
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=762
+#EXTINF:-1,Whats Trending HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=763
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
+#EXTINF:-1,OML on Revry HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=765
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF:-1,FAILARMY HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=772
+#EXTINF:-1,The Pet Collective HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=773
+#EXTINF:-1,People ARE Awesome HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=774
+#EXTINF:-1,Weather SPY HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=775
+#EXTINF:-1,Impact! Plus HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=776
+#EXTINF:-1,playlist.m3u8?network_id=777
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=777
+#EXTINF:-1,Retrospective HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+#EXTINF:-1,TNA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=779
+#EXTINF:-1,playlist.m3u8?network_id=780
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=780
+#EXTINF:-1,Retrospective HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
+#EXTINF:-1,MIH Teen HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=782
+#EXTINF:-1,People ARE Awesome HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=790
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=793
+#EXTINF:-1,EX+ HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=794
+#EXTINF:-1,EX+ HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=795
+#EXTINF:-1,playlist.m3u8?network_id=796
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=796
+#EXTINF:-1,US HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=797
+#EXTINF:-1,Animal Adventures HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=798
+#EXTINF:-1,Esportz Aegis HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=799
+#EXTINF:-1,Museum TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=800
+#EXTINF:-1,playlist.m3u8?network_id=802
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=802
+#EXTINF:-1,playlist.m3u8?network_id=803
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=803
+#EXTINF:-1,playlist.m3u8?network_id=804
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=804
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=805
+#EXTINF:-1,Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=806
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=807
+#EXTINF:-1,DANCE GO TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=808
+#EXTINF:-1,playlist.m3u8?network_id=811
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=811
+#EXTINF:-1,ESTV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=815
+#EXTINF:-1,Radio ROTOTOM HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=817
+#EXTINF:-1,MMA TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=819
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=820
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=822
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=823
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=824
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+#EXTINF:-1,Animations HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=826
+#EXTINF:-1,Cinema HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=827
+#EXTINF:-1,TNA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=828
+#EXTINF:-1,Impact! Plus HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=829
+#EXTINF:-1,playlist.m3u8?network_id=830
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=830
+#EXTINF:-1,AL Bernstein HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=831
+#EXTINF:-1,Waah!! HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=832
+#EXTINF:-1,playlist.m3u8?network_id=833
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=833
+#EXTINF:-1,HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=834
+#EXTINF:-1,Wow Mali HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=835
+#EXTINF:-1,Music HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=836
+#EXTINF:-1,Music HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=837
+#EXTINF:-1,playlist.m3u8?network_id=838
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=838
+#EXTINF:-1,playlist.m3u8?network_id=839
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=839
+#EXTINF:-1,BILLIARD TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=840
+#EXTINF:-1,FIDO TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=841
+#EXTINF:-1,LSN HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=842
+#EXTINF:-1,FOR THE FANS HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=843
+#EXTINF:-1,AFROLAND TV HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=844
+#EXTINF:-1,Black Pointe HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=845
+#EXTINF:-1,FIM HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=846
+#EXTINF:-1,playlist.m3u8?network_id=847
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=847
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=850
+#EXTINF:-1,Party Tyme Karaoke HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=851
+#EXTINF:-1,Revry HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=852
+#EXTINF:-1,European League of Football HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=853
 
 https://t.me/NSFWTV/2555
 EXTM3U, [Jul 11, 2021 at 12:46 AM]
