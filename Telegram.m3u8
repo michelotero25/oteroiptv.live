@@ -95,10 +95,6 @@ http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/nl-foxsports6.stream/playlist.m3u8
 #EXTINF:-1,ESPN HD
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
-
-
-https://t.me/NSFWTV/2550
-EXTM3U, [Jul 11, 2021 at 12:37 AM]
 #EXTIN:-1,Eurosport 2
 http://31.220.41.88:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:-1,FOX
@@ -193,10 +189,6 @@ http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
 #EXTINF:-1,Starz Cinema
 http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
-
-
-https://t.me/NSFWTV/2551
-EXTM3U, [Jul 11, 2021 at 12:37 AM]
 #EXTIN:-1,Starz Edge
 http://31.220.41.88:8081/live/us-starzedge.stream/playlist.m3u8
 #EXTINF:-1,Starz Encore
@@ -407,7 +399,6 @@ http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
 #EXTINF:-1,Starz Cinema
 http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
-
 #EXTIN:-1,Starz Edge
 http://31.220.41.88:8081/live/us-starzedge.stream/playlist.m3u8
 #EXTINF:-1,Starz Encore
@@ -1513,10 +1504,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=851
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=852
 #EXTINF:-1,European League of Football HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=853
-
-https://t.me/NSFWTV/2555
-EXTM3U, [Jul 11, 2021 at 12:46 AM]
-#m3u8 #sport 
 #EXTINF:-1,Eurosport HD
 http://str.smartip-tv.net:8888/Eurosport_HD/index.m3u8?token=test
 #EXTINF:-1,BEIN SPORTS 3HD
