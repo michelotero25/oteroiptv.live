@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1,Rainbow Movie
+http://1.165.150.124:14001/udp/224.1.4.64:11111
+#EXTINF:-1,Evolution
+http://1.165.150.124:14001/udp/224.1.4.63:11111
+#EXTINF:-1,K Channel
+http://1.165.150.124:14001/udp/224.1.4.65:11111
+#EXTINF:-1,Sonsee 1 HD
+http://1.165.150.124:14001/udp/224.1.4.68:11111
+#EXTINF:-1,Sonsee 2 HD
+http://1.165.150.124:14001/udp/224.1.4.69:11111
+#EXTINF:-1,Sonsee 3 HD
+http://1.165.150.124:14001/udp/224.1.4.70:11111
+#EXTINF:-1,HOT HD
+http://1.165.150.124:14001/udp/224.1.4.71:11111
+#EXTINF:-1,Happy Channel HD
+http://1.165.150.124:14001/udp/224.1.4.72:11111
+#EXTINF:-1,Evolution HD
+http://1.165.150.124:14001/udp/224.1.4.141:11111
+#EXTINF:-1,Sonsee 2 HD
+http://1.165.150.124:14001/udp/224.1.4.149:11111
+#EXTINF:-1,Rainbow Movie HD
+http://1.165.150.124:14001/udp/224.1.4.164:11111
+#EXTINF:-1,K Channel HD
+http://1.165.150.124:14001/udp/224.1.4.175:11111
 
 #EXTINF:0 tvg-rec="3",Playboy
 #EXTGRP:взрослые
@@ -15,6 +39,7 @@ http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/922/index.m3u8
 #EXTINF:0 tvg-rec="3",Candy
 #EXTGRP:взрослые
 http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/923/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Penthouse TV
 #EXTGRP:взрослые
 http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/1073/index.m3u8
