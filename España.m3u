@@ -1,336 +1,229 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ESPAÑA SAT",Portada
-http://37.135.72.182:8001/1:0:1:75c6:422:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:75c6:422:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD"  group-title="ESPAÑA SAT",LA 1
-http://37.135.72.182:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C2:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2"  group-title="ESPAÑA SAT",LA 2
-http://37.135.72.182:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7474:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD"  group-title="ESPAÑA SAT",ANTENA 3
-http://37.135.72.182:8001/1:0:1:772C:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772C:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD"  group-title="ESPAÑA SAT",CUATRO
-http://37.135.72.182:8001/1:0:1:7792:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7792:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD"  group-title="ESPAÑA SAT",TELECINCO
-http://37.135.72.182:8001/1:0:1:778C:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778C:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD"  group-title="ESPAÑA SAT",LA SEXTA
-http://37.135.72.182:8001/1:0:1:74A6:41C:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A6:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS"  group-title="ESPAÑA SAT",24 HORAS
-http://37.135.72.182:8001/1:0:1:7738:416:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7738:416:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="#0 HD" tvg-name="#0 HD"  group-title="ESPAÑA SAT",#0
-http://37.135.72.182:8001/1:0:1:7478:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7478:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="M.ESTRENOSHD"  group-title="ESPAÑA SAT",M. ESTRENOS
-http://37.135.72.182:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C0:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="M. ESTRENOS 2 HD"  group-title="ESPAÑA SAT",M. ESTRENOS 2
-http://37.135.72.182:8001/1:0:1:7588:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7588:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="M. ACCIÓN HD"  group-title="ESPAÑA SAT",M. ACCIÓN
-http://37.135.72.182:8001/1:0:1:746C:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746C:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. Fest" tvg-name="M. Fest"  group-title="ESPAÑA SAT",M. Fest
-http://37.135.72.182:8001/1:0:19:74FF:420:1:C00000:0:0:0
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:74FF:420:1:C00000:0:0:0
 #EXTINF:-1 tvg-id="M. BIOGRAFÍAS" tvg-name="M. BIOGRAFÍAS"  group-title="ESPAÑA SAT",M. BIOGRAFIAS
-http://37.135.72.182:8001/1:0:1:749d:41c:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749d:41c:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="M.COMEDIA HD"  group-title="ESPAÑA SAT",M. COMEDIA
-http://37.135.72.182:8001/1:0:1:746D:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746D:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="M. DRAMA HD"  group-title="ESPAÑA SAT",M. DRAMA
-http://37.135.72.182:8001/1:0:1:746E:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746E:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="M. SERIES HD"  group-title="ESPAÑA SAT",M. SERIES
-http://37.135.72.182:8001/1:0:1:76CA:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CA:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="M. SERIES  2 HD"  group-title="ESPAÑA SAT",M. SERIES 2
-http://37.135.72.182:8001/1:0:1:7696:41E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7696:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. Cine Español" tvg-name="M. Cine Espaol"  group-title="ESPAÑA SAT",M. Cine Español
-http://37.135.72.182:8001/1:0:1:7736:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7736:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="M. CLÁSICOS HD"  group-title="ESPAÑA SAT",M. Clásicos
-http://37.135.72.182:8001/1:0:1:77C6:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C6:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOODHD"  group-title="ESPAÑA SAT",HOLLYWOOD
-http://37.135.72.182:8001/1:0:1:77C1:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C1:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV"  group-title="ESPAÑA SAT",SUNDANCE TV
-http://37.135.72.182:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76A5:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD"  group-title="ESPAÑA SAT",TCM
-http://37.135.72.182:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C7:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD"  group-title="ESPAÑA SAT",TNT
-http://37.135.72.182:8001/1:0:1:76cb:40e:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76cb:40e:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD"  group-title="ESPAÑA SAT",FOX
-http://37.135.72.182:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746F:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD"  group-title="ESPAÑA SAT",FOX LIFE
-http://37.135.72.182:8001/1:0:1:7468:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7468:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD"  group-title="ESPAÑA SAT",AMC
-http://37.135.72.182:8001/1:0:1:76CF:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CF:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD"  group-title="ESPAÑA SAT",CALLE 13
-http://37.135.72.182:8001/1:0:1:7790:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7790:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD"  group-title="ESPAÑA SAT",SYFY
-http://37.135.72.182:8001/1:0:1:7796:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7796:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD"  group-title="ESPAÑA SAT",COSMO
-http://37.135.72.182:8001/1:0:1:7730:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7730:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD"  group-title="ESPAÑA SAT",AXN
-http://37.135.72.182:8001/1:0:1:7477:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7477:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD"  group-title="ESPAÑA SAT",AXN WHITE
-http://37.135.72.182:8001/1:0:1:7471:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7471:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA"  group-title="ESPAÑA SAT",NOVA
-http://37.135.72.182:8001/1:0:1:7469:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7469:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX"  group-title="ESPAÑA SAT",NEOX
-http://37.135.72.182:8001/1:0:1:7587:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7587:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT"  group-title="ESPAÑA SAT",PARAMOUNT
-http://37.135.72.182:8001/1:0:1:756B:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:756B:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDYCENTRALHD"  group-title="ESPAÑA SAT",COMEDY CENTRAL
-http://37.135.72.182:8001/1:0:1:76C8:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C8:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="FDF" tvg-name="FDF"  group-title="ESPAÑA SAT",FDF
-http://37.135.72.182:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BC:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY"  group-title="ESPAÑA SAT",DIVINITY
-http://37.135.72.182:8001/1:0:1:749a:41c:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749a:41c:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",MULTIDEPORTE
-http://37.135.72.182:8001/1:0:1:7692:41E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7692:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE"  group-title="ESPAÑA SAT",TELEDEPORTE
-http://37.135.72.182:8001/1:0:1:76CC:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CC:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL"  group-title="ESPAÑA SAT",GOL
-http://37.135.72.182:8001/1:0:1:74A3:41C:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A3:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="R. MADRID TV"  group-title="ESPAÑA SAT",R. MADRID TV
-http://37.135.72.182:8001/1:0:1:7798:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7798:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="BARCA TV" tvg-name="BARÇA TV"  group-title="ESPAÑA SAT",Barça TV
-http://37.135.72.182:8001/1:0:1:74a0:41c:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74a0:41c:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOSHD"  group-title="ESPAÑA SAT",#VAMOS
-http://37.135.72.182:8001/1:0:1:7733:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7733:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOSHD"  group-title="ESPAÑA SAT",#VAMOS HD
-http://37.135.72.182:8001/1:0:1:7734:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7734:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT1HD"  group-title="ESPAÑA SAT",Eurosport 1
-http://37.135.72.182:8001/1:0:1:74A1:41C:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A1:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EUROSPORT 2"  group-title="ESPAÑA SAT",Eurosport 2
-http://37.135.72.182:8001/1:0:1:74a7:41c:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74a7:41c:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="M. LaLiga HD"  group-title="ESPAÑA SAT",M. LaLiga
-http://37.135.72.182:8001/1:0:1:7797:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7797:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-name="M. LaLiga 1 HD"  group-title="ESPAÑA SAT",M. LaLiga 1
-http://37.135.72.182:8001/1:0:1:769D:41E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769D:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="M. LaLiga 2 HD"  group-title="ESPAÑA SAT",M. LaLiga 2
-http://37.135.72.182:8001/1:0:1:77BD:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BD:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="M. LaLiga 3 HD"  group-title="ESPAÑA SAT",M. LaLiga 3
-http://37.135.72.182:8001/1:0:1:7601:408:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7601:408:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD"  group-title="ESPAÑA SAT",DAZN F1
-http://37.135.72.182:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A4:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD"  group-title="ESPAÑA SAT",DAZN 1
-http://37.135.72.182:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76A4:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD"  group-title="ESPAÑA SAT",DAZN 2
-http://37.135.72.182:8001/1:0:1:772A:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772A:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3"  group-title="ESPAÑA SAT",DAZN 3
-http://37.135.72.182:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BE:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4"  group-title="ESPAÑA SAT",DAZN 4
-http://37.135.72.182:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C0:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name="M.LCAMPEONES"  group-title="ESPAÑA SAT",M.LCAMPEONES
-http://37.135.72.182:8001/1:0:1:757B:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757B:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON1"  group-title="ESPAÑA SAT",M.LCAMPEON1
-http://37.135.72.182:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C3:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON 2 HD (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON2
-http://37.135.72.182:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:74DB:3F8:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON2"  group-title="ESPAÑA SAT",M. LCAMPEON2
-http://37.135.72.182:8001/1:0:1:760A:408:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:760A:408:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M.LCAMPEON3"  group-title="ESPAÑA SAT",M.LCAMPEON3
-http://37.135.72.182:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77D8:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-name="M. DEPORTESHD"  group-title="ESPAÑA SAT",M. DEPORTES
-http://37.135.72.182:8001/1:0:1:778F:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778F:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES1
-http://37.135.72.182:8001/1:0:1:7739:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7739:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES2
-http://37.135.72.182:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C2:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="M. GOLF HD"  group-title="ESPAÑA SAT",M. GOLF
-http://37.135.72.182:8001/1:0:1:7789:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7789:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS HD"  group-title="ESPAÑA SAT",TOROS
-http://37.135.72.182:8001/1:0:1:7570:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7570:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY"  group-title="ESPAÑA SAT",DISCOVERY
-http://37.135.72.182:8001/1:0:1:772F:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772F:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEO HD"  group-title="ESPAÑA SAT",NAT GEO HD
-http://37.135.72.182:8001/1:0:19:7829:428:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7829:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEO HD"  group-title="ESPAÑA SAT",NAT GEOGRAPH
-http://37.135.72.182:8001/1:0:1:778D:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778D:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NG WILD HD"  group-title="ESPAÑA SAT",NAT GEO WILD
-http://37.135.72.182:8001/1:0:1:7472:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7472:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA"  group-title="ESPAÑA SAT",HISTORIA
-http://37.135.72.182:8001/1:0:1:7731:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7731:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE"  group-title="ESPAÑA SAT",BLAZE
-http://37.135.72.182:8001/1:0:1:772D:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772D:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="CRIMEN+INVES"  group-title="ESPAÑA SAT",CRIMEN+INVES
-http://37.135.72.182:8001/1:0:1:7732:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7732:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZAyPESCA HD"  group-title="ESPAÑA SAT",CAZA Y PESCA
-http://37.135.72.182:8001/1:0:1:772B:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772B:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV"  group-title="ESPAÑA SAT",IBERALIA
-http://37.135.72.182:8001/1:0:1:746a:3f0:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746a:3f0:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="VIAJAR HD" tvg-name="VIAJAR HD"  group-title="ESPAÑA SAT",VIAJAR
-http://37.135.72.182:8001/1:0:1:76C9:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C9:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="CANAL DECASA"  group-title="ESPAÑA SAT",CANAL DECASA
-http://37.135.72.182:8001/1:0:1:7795:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7795:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA"  group-title="ESPAÑA SAT",CANAL COCINA
-http://37.135.72.182:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CE:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="CANAL ODISEA"  group-title="ESPAÑA SAT",CANAL ODISEA
-http://37.135.72.182:8001/1:0:1:778A:424:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778A:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",MEZZO
-http://37.135.72.182:8001/1:0:1:7699:41E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7699:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="MTV ESPAÑA"  group-title="ESPAÑA SAT",MTV ESPAÑA
-http://37.135.72.182:8001/1:0:1:74A2:41C:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A2:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",NHK WORLD-JPN
-http://37.135.72.182:8001/1:0:1:139D:3EA:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:139D:3EA:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="DISNEY CH HD"  group-title="ESPAÑA SAT",DISNEY CH
-http://37.135.72.182:8001/1:0:1:76C3:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C3:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="CLAN  TVE"  group-title="ESPAÑA SAT",CLAN TVE
-http://37.135.72.182:8001/1:0:1:76C1:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C1:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DreamWorks HD"  group-title="ESPAÑA SAT",DREAMWOORKS
-http://37.135.72.182:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C7:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="BOING" tvg-name="BOING"  group-title="ESPAÑA SAT",BOING
-http://37.135.72.182:8001/1:0:1:749E:41C:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749E:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR"  group-title="ESPAÑA SAT",DISNEY JR
-http://37.135.72.182:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746B:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR"  group-title="ESPAÑA SAT",NICK JR
-http://37.135.72.182:8001/1:0:1:7697:41E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7697:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA"  group-title="ESPAÑA SAT",CANAL PANDA
-http://37.135.72.182:8001/1:0:1:76C4:40E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C4:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV"  group-title="ESPAÑA SAT",BABY TV
-http://37.135.72.182:8001/1:0:1:749C:41C:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749C:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="Canal Sur HD." tvg-name="CANAL SUR A."  group-title="ESPAÑA SAT",CANAL SUR A.
-http://37.135.72.182:8001/1:0:1:7729:416:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7729:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="TVGA" tvg-name="TV GALICIA HD"  group-title="ESPAÑA SAT",GALICIA HD
-http://37.135.72.182:8001/1:0:1:18f1:3f4:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:18f1:3f4:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="EXTREMADURA SAT" tvg-name="EXTREMADURA SAT"  group-title="ESPAÑA SAT",EXTREMADURA SAT
-http://37.135.72.182:8001/1:0:1:18f0:3f4:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:18f0:3f4:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="ARAGON TV INT" tvg-name="ARAGON TV INT"  group-title="ESPAÑA SAT",ARAGON TV
-http://37.135.72.182:8001/1:0:1:7473:3f0:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7473:3f0:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-name="M.LCAMPEON 4 (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON4
-http://37.135.72.182:8001/1:0:1:77C4:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C4:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.LCAMPEON 5 (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON5
-http://37.135.72.182:8001/1:0:1:757D:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757D:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.LCAMPEON 6 (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON6
-http://37.135.72.182:8001/1:0:1:757C:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757C:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M.LCAMPEON 7 (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON7
-http://37.135.72.182:8001/1:0:1:769C:41E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769C:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M.LCAMPEON8
-http://37.135.72.182:8001/1:0:1:7576:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7576:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M.LCAMPEONES X
-http://37.135.72.182:8001/1:0:1:760E:408:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:760E:408:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="M. LaLiga 4 (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M. LaLiga 4
-http://37.135.72.182:8001/1:0:1:77C9:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C9:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M. LaLiga 5" tvg-name="M. LaLiga 5 HD"  group-title="ESPAÑA SAT",M. LaLiga 5
-http://37.135.72.182:8001/1:0:1:7579:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7579:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. LaLiga 6
-http://37.135.72.182:8001/1:0:1:7607:408:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7607:408:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. LaLiga 7
-http://37.135.72.182:8001/1:0:1:756E:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:756E:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. LaLiga 8
-http://37.135.72.182:8001/1:0:1:7690:41E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7690:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. LaLiga 9
-http://37.135.72.182:8001/1:0:1:7581:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7581:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. LaLiga 10
-http://37.135.72.182:8001/1:0:1:7578:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7578:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES3
-http://37.135.72.182:8001/1:0:1:77BF:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BF:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES4
-http://37.135.72.182:8001/1:0:1:77C8:40A:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C8:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES5
-http://37.135.72.182:8001/1:0:1:769B:41E:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769B:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES6
-http://37.135.72.182:8001/1:0:1:7575:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7575:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES7
-http://37.135.72.182:8001/1:0:1:756D:412:1:C00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:756D:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",Playboy
-http://37.135.72.182:8001/1:0:1:778b:424:1:c00000:0:0:0:
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778b:424:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",Vivid XXX
-http://37.135.72.182:8001/1:0:16:FE0:451:35:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M+ Portada
-http://37.11.14.229:8001/1:0:1:759c:422:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. #0
-http://37.11.14.229:8001/1:0:19:788c:414:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. estrenos
-http://37.11.14.229:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Estrenos 2
-http://37.11.14.229:8001/1:0:1:7588:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Comedia
-http://37.11.14.229:8001/1:0:19:7857:41a:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Drama
-http://37.11.14.229:8001/1:0:19:750b:420:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Accion
-http://37.11.14.229:8001/1:0:1:746C:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Series 2
-http://37.11.14.229:8001/1:0:1:7696:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/094",🇪🇸 ●| M. Cine Ñ
-http://37.11.14.229:8001/1:0:1:7736:416:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",🇪🇸 ●| La 1ᴴᴰ 
-http://91.126.141.13:1935/live/41/1800-def.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",🇪🇸 ●| La 1ᴴᴰ 
-http://eja.tv/?f637f17a2fdc60ed45df337e150c36fa.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png",🇪🇸 ●| La 1ᴴᴰ 
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-2.png",🇪🇸 ●| La 2ᴴᴰ 
-http://91.126.141.13:1935/live/81/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-2.png",🇪🇸 ●| La 2ᴴᴰ 
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320",🇪🇸 ●| Antena 3ᴴᴰ 
-http://91.126.141.13:1935/live/11/3500-def.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320",🇪🇸 ●| Antena 3ᴴᴰ
-http://37.11.14.229:8001/1:0:19:772C:416:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png",🇪🇸 ●| Cuatroᴴᴰ
-http://91.126.141.13:1935/live/51/playlist.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/telecinco/favicon-32x32.png",🇪🇸 ●| Telecincoᴴᴰ
-http://91.126.141.13:1935/live/61/2500-def.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png",🇪🇸 ●| La Sextaᴴᴰ
-http://91.126.141.13:1935/live/21/3500-def.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.atresseries.com/public/img/atreseriesint/apple-touch-icon.png",🇪🇸 ●| AtreSeriesᴴᴰ 
-http://91.126.141.13:1935/live/101/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.atresseries.com/public/img/atreseriesint/apple-touch-icon.png",🇪🇸 ●| AtreSeriesᴴᴰ 
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=089340b5ce26dc28126b08a229fa47efe3a0fee3e
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.atrescine.com/public/img/atrescine/android-chrome-192x192.png",🇪🇸 ●| AtreCineᴴᴰ 
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",🇪🇸 ●| Clan
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/clan/dash/clan.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=077b500a05379a2e5ac15897d8a96f8640f4c30a2
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://files.mediaset.es/cimg/1001/2019/10/01/energy-claro_a8b9.svg",🇪🇸 ●| Energy
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/energy/dash/energy.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0778f31a36b9167da2ac914efdcd9ceeed5c22767
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",🇪🇸 ●| DKiss
-http://79.116.8.84:9981/stream/channelid/1884118474?profile=pass
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",🇪🇸 ●| Novaᴴᴰ
-http://37.11.14.229:8001/1:0:1:7469:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FDFESPANHA.png",🇪🇸 ●| fdfᴴᴰ
-http://37.11.14.229:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",🇪🇸 ●| Neoxᴴᴰ
-http://37.11.14.229:8001/1:0:1:7587:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",🇪🇸 ●| Neoxᴴᴰ
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=03fab75a9287d0b2dd1aaca726d9d06ad2f64e769
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png",🇪🇸 ●| Bmadᴴᴰ
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/bmad/dash/bmad.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=00b33e3f25c50bcd09f64efb9d49f78a431779e78
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",🇪🇸 ●| Mega
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1527155886&nva=1958691886&hash=0b2c7333d5b73ad0d55785822992f7772763885bc
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200",🇪🇸 ●| Divinityᴴᴰ 
-http://37.11.14.229:8001/1:0:1:749a:41c:1:c00000:0:0:0:
-
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/sc9k",🇪🇸 ●| Galicia Americaᴴᴰ 
-http://america-crtvg.flumotion.com:80/crtvg/america_high/chunks.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/sc9k",🇪🇸 ●| Galicia Europaᴴᴰ 
-http://europa-crtvg.flumotion.com:80/crtvg/europa_high/chunks.m3u8?wowzasessionid=inspiration
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",🇪🇸 ●| CGTN Espanol
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ●| Canal Surᴴᴰ
-http://93.241.75.134:19981/stream/channelid/1792089302
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.canalsur.es/css/cssimg/favicon.ico",🇪🇸 ●| Canal Surᴴᴰ
-https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/chunklist_b2200000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",🇻🇪 ●| TeleSurᴴᴰ
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://telesurcostarica.com/images/Logotipo-TeleSUR-2017-500px-Blanco.png",🇨🇷 ●| TeleSurᴴᴰ
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200",🇪🇸 ●| Treceᴴᴰ
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/SinartTreceCostaRica/picture?width=200&height=200",🇵🇾 ●| Treceᴴᴰ
-http://174.138.118.252/live/trece_src.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://imgur.com/68LNS8e.png",🇪🇸 ●| Televisión Canariaᴴᴰ
-https://rtvc-live1-rm.flumotion.com/rtvc-rm/live1-rm_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200",🇪🇸 ●| TV3CATᴴᴰ
-https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist_b4128000_DVR.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://beteve.cat/wp-content/themes/beteve/img/logo.svg",🇪🇸 ●| betevéᴴᴰ
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.fibracat.cat/img/site-logo.svg",🇪🇸 ●| Fibracat
-https://cdn02.fibracat.cat/fibracattv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200",🇪🇸 ●| mtmad 24hᴴᴰ
-https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i82e48f36514a3b57/version/1470080571/image.png",🇪🇸 ●| Extremadura TVᴴᴰ 
-https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",🇪🇸 ●| País Vasco 1ᴴᴰ 
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&rebase=on
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",🇪🇸 ●| País Vasco 2ᴴᴰ 
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8?sd=8&rebase=on
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320",🇪🇸 ●| Canal 45 TVᴴᴰ
-https://cdn01.yowi.tv/503L6OKTE2/live-1500.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://statics.ccma.cat/img/logos/logo_bondiaTV.svg",🇪🇸 ●| Bon Dia tv
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.cyltv.es/img/la8Burgos.svg",🇪🇸 ●| La 8 Burgosᴴᴰ
-https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanha" tvg-logo="https://www.tvcubana.icrt.cu/images/television.jpg",🇨🇺 ●| Cubavision Internacional
-http://93.241.75.134:19981/stream/channelid/660821106?profile=pass
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:16:FE0:451:35:C00000:0:0:0:
