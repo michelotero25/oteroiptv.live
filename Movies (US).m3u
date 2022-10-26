@@ -1,5 +1,246 @@
 #EXTM3U
 
+#EXTINF:-1,Movie
+http://89.187.175.143:80/3001/mpegts
+#EXTINF:-1,AMC
+http://89.187.175.143:80/3002/mpegts
+#EXTINF:-1,MLB
+http://89.187.175.143:80/3003/mpegts
+#EXTINF:-1,OWN
+http://89.187.175.143:80/3004/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3005/mpegts
+#EXTINF:-1,FX
+http://89.187.175.143:80/3006/mpegts
+#EXTINF:-1,HALLMARK
+http://89.187.175.143:80/3007/mpegts
+#EXTINF:-1,BET HER
+http://89.187.175.143:80/3008/mpegts
+#EXTINF:-1,MTV
+http://89.187.175.143:80/3009/mpegts
+#EXTINF:-1,HLN
+http://89.187.175.143:80/3010/mpegts
+#EXTINF:-1,Movie
+http://89.187.175.143:80/3012/mpegts
+#EXTINF:-1,NBC Golf
+http://89.187.175.143:80/3013/mpegts
+#EXTINF:-1,Movie
+http://89.187.175.143:80/3014/mpegts
+#EXTINF:-1,Paramount NW
+http://89.187.175.143:80/3015/mpegts
+#EXTINF:-1,Disney XD
+http://89.187.175.143:80/3016/mpegts
+#EXTINF:-1,BET
+http://89.187.175.143:80/3017/mpegts
+#EXTINF:-1,CMT
+http://89.187.175.143:80/3018/mpegts
+#EXTINF:-1,Bravo
+http://89.187.175.143:80/3019/mpegts
+#EXTINF:-1,Epix
+http://89.187.175.143:80/3020/mpegts
+#EXTINF:-1,Freeform
+http://89.187.175.143:80/3021/mpegts
+#EXTINF:-1,FYI
+http://89.187.175.143:80/3022/mpegts
+#EXTINF:-1,Gameshow NW
+http://89.187.175.143:80/3023/mpegts
+#EXTINF:-1,Discovery
+http://89.187.175.143:80/3024/mpegts
+#EXTINF:-1,USA Network
+http://89.187.175.143:80/3025/mpegts
+#EXTINF:-1,Lifetime
+http://89.187.175.143:80/3026/mpegts
+#EXTINF:-1,Ion
+http://89.187.175.143:80/3027/mpegts
+#EXTINF:-1,FS2
+http://89.187.175.143:80/3028/mpegts
+#EXTINF:-1,Movie
+http://89.187.175.143:80/3029/mpegts
+#EXTINF:-1,TNT
+http://89.187.175.143:80/3030/mpegts
+#EXTINF:-1,History
+http://89.187.175.143:80/3031/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3032/mpegts
+#EXTINF:-1,TV LAND Classic
+http://89.187.175.143:80/3033/mpegts
+#EXTINF:-1,Vice
+http://89.187.175.143:80/3034/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3035/mpegts
+#EXTINF:-1,Oxygen True Crime
+http://89.187.175.143:80/3036/mpegts
+#EXTINF:-1,WE
+http://89.187.175.143:80/3037/mpegts
+#EXTINF:-1,TSN 1
+http://89.187.175.143:80/3038/mpegts
+#EXTINF:-1,Trvl
+http://89.187.175.143:80/3039/mpegts
+#EXTINF:-1,Star Comedy
+http://89.187.175.143:80/3040/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3041/mpegts
+#EXTINF:-1,Nick
+http://89.187.175.143:80/3042/mpegts
+#EXTINF:-1,Star Kids&Family
+http://89.187.175.143:80/3043/mpegts
+#EXTINF:-1,ESPN U
+http://89.187.175.143:80/3044/mpegts
+#EXTINF:-1,TSN 2
+http://89.187.175.143:80/3045/mpegts
+#EXTINF:-1,TSN 3
+http://89.187.175.143:80/3046/mpegts
+#EXTINF:-1,TSN 4
+http://89.187.175.143:80/3047/mpegts
+#EXTINF:-1,TSN 5
+http://89.187.175.143:80/3048/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3049/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3050/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3051/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3052/mpegts
+#EXTINF:-1,NESN
+http://89.187.175.143:80/3053/mpegts
+#EXTINF:-1,SEC ESPN
+http://89.187.175.143:80/3054/mpegts
+#EXTINF:-1,ABC FLO
+http://89.187.175.143:80/3055/mpegts
+#EXTINF:-1,FS1
+http://89.187.175.143:80/3056/mpegts
+#EXTINF:-1,Movie
+http://89.187.175.143:80/3057/mpegts
+#EXTINF:-1,History 2
+http://89.187.175.143:80/3058/mpegts
+#EXTINF:-1,GRIT
+http://89.187.175.143:80/3059/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3060/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3061/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3062/mpegts
+#EXTINF:-1,A&E
+http://89.187.175.143:80/3063/mpegts
+#EXTINF:-1,UMSG2
+http://89.187.175.143:80/3064/mpegts
+#EXTINF:-1,RED BUUL
+http://89.187.175.143:80/3065/mpegts
+#EXTINF:-1,SHOPPING
+http://89.187.175.143:80/3066/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3067/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3068/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3069/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3070/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3071/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3072/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3073/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3074/mpegts
+#EXTINF:-1,WF
+http://89.187.175.143:80/3075/mpegts
+#EXTINF:-1,FXM
+http://89.187.175.143:80/3076/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3077/mpegts
+#EXTINF:-1,MSNBC
+http://89.187.175.143:80/3078/mpegts
+#EXTINF:-1,CNBC
+http://89.187.175.143:80/3079/mpegts
+#EXTINF:-1,VH1
+http://89.187.175.143:80/3080/mpegts
+#EXTINF:-1,The Weather Channel
+http://89.187.175.143:80/3081/mpegts
+#EXTINF:-1,E!
+http://89.187.175.143:80/3082/mpegts
+#EXTINF:-1,CW 17
+http://89.187.175.143:80/3083/mpegts
+#EXTINF:-1,NBC
+http://89.187.175.143:80/3084/mpegts
+#EXTINF:-1,FOX 35
+http://89.187.175.143:80/3085/mpegts
+#EXTINF:-1,Bloomberg
+http://89.187.175.143:80/3086/mpegts
+#EXTINF:-1,CBS NEWS
+http://89.187.175.143:80/3087/mpegts
+#EXTINF:-1,Crime Investigation
+http://89.187.175.143:80/3088/mpegts
+#EXTINF:-1,FOX BUSINESS NEWS P
+http://89.187.175.143:80/3089/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3090/mpegts
+#EXTINF:-1,IFC
+http://89.187.175.143:80/3091/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3092/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3093/mpegts
+#EXTINF:-1,Nat Geo
+http://89.187.175.143:80/3094/mpegts
+#EXTINF:-1,Nick Jr
+http://89.187.175.143:80/3095/mpegts
+#EXTINF:-1,OUTDOOR
+http://89.187.175.143:80/3096/mpegts
+#EXTINF:-1,POP
+http://89.187.175.143:80/3097/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3098/mpegts
+#EXTINF:-1,REELZ
+http://89.187.175.143:80/3099/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3090/mpegts
+#EXTINF:-1,TLC
+http://89.187.175.143:80/3100/mpegts
+#EXTINF:-1,FOX NEWS
+http://89.187.175.143:80/3101/mpegts
+#EXTINF:-1,Showcase
+http://89.187.175.143:80/3102/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3103/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3104/mpegts
+#EXTINF:-1,SYFY
+http://89.187.175.143:80/3105/mpegts
+#EXTINF:-1,tbs
+http://89.187.175.143:80/3106/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3107/mpegts
+#EXTINF:-1,Gyf
+http://89.187.175.143:80/3108/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3109/mpegts
+#EXTINF:-1,BOOMERANG
+http://89.187.175.143:80/3110/mpegts
+#EXTINF:-1,ACCN ESPN
+http://89.187.175.143:80/3111/mpegts
+#EXTINF:-1,PRORODEO
+http://89.187.175.143:80/3112/mpegts
+#EXTINF:-1,BALLY SPORTS N
+http://89.187.175.143:80/3113/mpegts
+#EXTINF:-1,HGTV
+http://89.187.175.143:80/3114/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3115/mpegts
+#EXTINF:-1,X
+http://89.187.175.143:80/3116/mpegts
+#EXTINF:-1,OAN News
+http://89.187.175.143:80/3117/mpegts
+#EXTINF:-1,BUZZR
+http://89.187.175.143:80/3118/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3119/mpegts
+#EXTINF:-1,UKN
+http://89.187.175.143:80/3120/mpegts
+
 #EXTINF:0,Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.4K
 http://www.lemaurecourtois.com/film/4K.Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.4K.MULTi.VFF.2160p.mkv
 #EXTINF:0, 4K.Morbius.2022
