@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTM3U
-ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
-######################################################################################################################################
-######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://cartelerasdecine.info/wp-content/uploads/2017/11/Estrenos-Noviembre-Carteleras-de-Cine.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
-http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg" group-title="Peliculas 4K",007 Spectre (4K)
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/5/w1280/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" group-title="Peliculas 4K",Alien Covenant (4K)
