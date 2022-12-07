@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ESPAÑA SAT",Portada
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:75c6:422:1:c00000:0:0:0:
+http://62.37.6.216:8001/1:0:1:75c6:422:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD"  group-title="ESPAÑA SAT",LA 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C2:40E:1:C00000:0:0:0:
+http://62.37.6.216:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2"  group-title="ESPAÑA SAT",LA 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7474:3F0:1:C00000:0:0:0:
+http://62.37.6.216:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD"  group-title="ESPAÑA SAT",ANTENA 3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772C:416:1:C00000:0:0:0:
+http://62.37.6.216:8001/1:0:1:772C:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD"  group-title="ESPAÑA SAT",CUATRO
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7792:424:1:C00000:0:0:0:
+http://62.37.6.216:8001/1:0:1:7792:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD"  group-title="ESPAÑA SAT",TELECINCO
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778C:424:1:C00000:0:0:0:
+http://62.37.6.216:8001/1:0:1:778C:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD"  group-title="ESPAÑA SAT",LA SEXTA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A6:41C:1:C00000:0:0:0:
+http://62.37.6.216:8001/1:0:1:74A6:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS"  group-title="ESPAÑA SAT",24 HORAS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7738:416:1:c00000:0:0:0:
+http://62.37.6.216:8001/1:0:1:7738:416:1:c00000:0:0:0:
 #EXTINF:-1 tvg-id="#0 HD" tvg-name="#0 HD"  group-title="ESPAÑA SAT",#0
 http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7478:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="M.ESTRENOSHD"  group-title="ESPAÑA SAT",M. ESTRENOS
