@@ -1,771 +1,325 @@
 #EXTM3U
-
-
-#EXTINF:-1.BRAZZERS TV +18
-http://83.139.104.112/Content/HLS/Live/Channel(BRAZZERS_TV)/Stream(03)/index.m3u8
-
-#EXTINF:-1,PLAYBOY TV +18
-http://83.139.104.112/Content/HLS/Live/Channel(PLAYBOY_TV)/Stream(03)/index.m3u8
-
-#EXTINF:0, Frenchlover TV
-http://iptv.sat-
-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/569/index.m3u8
-
-#EXTINF:0, SCT HQ
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/566/index.m3u8
-
-#EXTINF:0, CENTOXCENTO TV
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/564/index.m3u8
-
-#EXTINF:0, exotica plus
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/562/index.m3u8
-
-#EXTINF:0, SATISFACTION HD
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/561/index.m3u8
-
-#EXTINF:-1, pink
-http://iptv.sat-x.tv/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/567/index.m3u8
-
-#EXTINF:-1, Adult tv
-http://188.165.220.116:8081/live/z/chunks.m3u8
-
-#EXTINF:0, Интрига ТВ
-http://serv02.vintera.tv:1935/live/play/playlist.m3u8
-
-#EXTINF:0, Playboy TV
-http://37.228.91.166:8081/cdn/playboy/playlist.m3u8
-
-#EXTINF:0, Brazzers TV Europe
-http://37.228.91.166:8081/cdn/brozz/playlist.m3u8
-
-#EXTINF:-1, Olala
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-
-#EXTINF:-1, Russian Night
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
-
-#EXTINF:-1, Blue Hustler
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-
-#EXTINF:-1, Playboy TV
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
-
-#EXTINF:-1, XXL
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
-
-#EXTINF:0, Hustler
-http://tv1.sunduk.tv:8080/CH171_std/playlist.m3u8
-
-#EXTINF:0, Playboy
-http://tv1.sunduk.tv:8080/CH175_std/playlist.m3u8
-
-#EXTINF:0, Private
-http://tv1.sunduk.tv:8080/CH151_std/playlist.m3u8
-
-#EXTINF:0, Brazzers
-http://tv1.sunduk.tv:8080/CH152_std/playlist.m3u8
-
-#EXTINF:0, Русская ночь
-http://tv10.sunduk.tv:8080/CH163_std/playlist.m3u8
-
-http://188.165.220.116:8081/live/n/playlist.m3u8
-
-PLAYBOY USA
-rtmp://212.83.171.82:1935/live/1016
-
-DORCEL TV
-rtmp://212.83.171.82:1935/live/1017
-
-EXOTICA
-rtmp://212.83.171.82:1935/live/1018
-
-EXOTICA PLUS
-rtmp://212.83.171.82:1935/live/1018
-
-HOT tv Brasil
-http://4.31.30.145:9145
-
-#EXTINF:-1,Penthouse
-http://93.87.43.249:8050/50
-
-Erotic+18
-http://185.6.104.184:23232/9069/index.m3u8
-
-Dorcel+18
-http://185.6.104.184:23232/9070/index.m3u8
-P
-http://185.6.104.184:23232/9071/index.m3u8
-
-Bunga Bunga
-http://84.22.33.3:8066
-
-#EXTINF:-1,Hustler
-http://cdn-07.sdn.si/hustler/hustler.m3u8
-
-#EXTINF:-1,EroXXX HD
-http://cdn-07.sdn.si/eroxxxhd/eroxxxhd.m3u8
-
-#EXTINF:-1,SuperOne
-http://cdn-07.sdn.si/superone/superone.m3u8
-
-#EXTINF:-1,Dorcel
-http://cdn-07.sdn.si/dorcel/dorcel.m3u8
-
-#EXTINF:-1,SCT
-http://cdn-07.sdn.si/sct/sct.m3u8
-
-#EXTINF:-1,Daring
-http://cdn-07.sdn.si/daring/daring.m3u8
-
-#EXTINF:-1,Babestation
-http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-
-#EXTINF:-1,Babestation Blue
-http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-
-#EXTINF:-1,Babestation Unleashed
-http://46.105.116.159:1935/iptv_cellcast_24/livestream_three
-
-2/.m3u8
-
-#EXTINF:-1,Babestation Unleashed2
-http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/
-
-.m3u8
-
-#EXTINF:-1,Babestation Xtra
-http://46.105.116.159:1935/cellcast/encoder72/.m3u8
-
-#EXTINF:401,Private Spice
-http://193.77.184.176:7781/udp/232.4.4.4:5002
-
-#EXTINF:403,Hustler
-http://193.77.184.176:7781/udp/232.2.4.9:5002
-
-#EXTINF:0,Hustler HD
-http://193.77.184.176:7781/udp/232.2.6.10:5002
-
-#EXTINF:405,X Dream TV
-http://193.77.184.176:7781/udp/232.4.4.6:5002
-
-#EXTINF:406,Dorcel TV
-http://193.77.184.176:7781/udp/232.4.4.15:5002
-
-#EXTINF:0,Erox HD
-http://193.77.184.176:7781/udp/232.4.4.16:5002
-
-#EXTINF:0,Eroxxx HD
-http://193.77.184.176:7781/udp/232.4.4.14:5002
-
-#EXTINF:0,Super One HD
-http://193.77.184.176:7781/udp/232.4.4.19:5002
-
-#EXTINF:407,Playboy TV
-http://193.77.184.176:7781/udp/232.4.3.38:5002
-
-#EXTINF:0,SCT
-http://193.77.184.176:7781/udp/232.4.4.3:5002
-
-#EXTINF:0,BOY BOY
-http://193.77.184.176:7781/udp/232.2.4.8:5002
-
-#EXTINF:408,Daring! TV
-http://193.77.184.176:7781/udp/232.2.4.10:5002
-
-#EXTINF:409,Satisfaction Italy
-http://193.77.184.176:7781/udp/232.4.2.38:5002
-
-#EXTINF:410,Free X TV
-http://193.77.184.176:7781/udp/232.4.3.36:5002
-
-#EXTINF:411,Prive
-http://193.77.184.176:7781/udp/232.4.4.5:5002
-
-#EXTINF:0,XXL
-http://193.77.184.176:7781/udp/232.4.2.28:5002
-
-#EXTINF:413,Brazzers TV Europe
-http://193.77.184.176:7781/udp/232.2.4.6:5002
-
-#EXTINF:0,Frenchlover TV
-http://193.77.184.176:7781/udp/232.4.1.49:5002
-
-#EXTINF:-1, Daring
-http://95.143.22.105:2222/udp/234.5.2.246:1234
-
-#EXTINF:-1, HUSTLER
-http://95.143.22.105:2222/udp/234.5.2.247:1234
-
-#EXTINF:-1, Private spice
-http://95.143.22.105:2222/udp/234.5.2.248:1234
-
-#EXTINF:-1, Русская ночь
-http://95.143.22.105:2222/udp/234.5.2.249:1234
-
-#EXTINF:0,31, Hustler HD +18
-rtmp://tv.futubox.com:1935/live/z990102.stream
-
-#EXTINF:0,32, Redlight HD +18
-rtmp://tv.futubox.com:1935/live/z990101.stream
-
-#EXTINF:0,sct
-http://88.203.214.12:4022/udp/239.10.1.197:30000
-
-#EXTINF:0,Premium hd
-http://88.203.214.12:4022/udp/239.10.1.196:30000
-
-X Desire Tv +18
-http://84.22.33.3:8060
-
-egoist
-http://iptv.sat-
-
-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/526/index.m3u
-
-8
-
-Playboy
-http://iptv.sat-
-
-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/527/index.m3u
-
-8
-
-Russian Night
-http://iptv.sat-
-
-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/147/index.m3u
-
-8
-
-#EXTINF:-1, Adult Tv
-http://188.165.220.116:8081/str/ru/playlist.m3u8
-
-#EXTINF:-1, Adult Tv1
-http://188.165.220.116:8081/str/ner/playlist.m3u8
-
-#EXTINF:-1, Ночной клуб
-http://46.181.237.75:1234/udp/239.255.42.217:1234
-
-#EXTINF:-1, Русская ночь
-http://46.181.237.75:1234/udp/239.255.42.218:1234
-
-#EXTINF:-1, O-la-la
-http://46.181.237.75:1234/udp/239.255.42.219:1234
-
-#EXTINF:-1, BRAZZERS TV Europe
-http://46.181.237.75:1234/udp/239.255.42.220:123
-
-1
-rtsp://210.200.79.28:554/live/tc218081
-2
-rtsp://210.200.79.28:554/live/tc218082
-3
-rtsp://210.200.79.28:554/live/tc218083
-4
-rtsp://210.200.79.28:554/live/aracity_m_new
-5
-rtsp://210.200.79.28:554/live/aracity02
-6
-rtsp://210.200.79.28:554/live/aracity01
-7
-rtsp://210.200.79.28:554/live/aracity03
-
-#EXTINF: -1, Playboy TV
-http://auth.nnm-list.ru/h/383/1/1/niu3uo4w
-
-#EXTINF: -1, Hustler TV
-http://auth.nnm-list.ru/h/115/1/1/niu3uo4w
-
-#EXTINF: -1, O-la-la
-http://auth.nnm-list.ru/h/826/1/1/niu3uo4w
-
-#EXTINF: -1, Satisfaction TV HQ
-http://auth.nnm-list.ru/h/924/1/1/niu3uo4w
-
-#EXTINF: -1, Platinum TV
-http://auth.nnm-list.ru/h/622/1/1/niu3uo4w
-
-#EXTINF: -1, SCT HD (SD)
-http://auth.nnm-list.ru/h/911/1/1/niu3uo4w
-
-#EXTINF: -1, Night Club
-http://auth.nnm-list.ru/h/528/1/1/niu3uo4w
-
-#EXTINF: -1, Russian night
-http://auth.nnm-list.ru/h/64/1/1/niu3uo4w
-
-#EXTINF: -1, Nuart TV
-http://auth.nnm-list.ru/h/634/1/1/niu3uo4w
-
-#EXTINF: -1, Temptation
-http://auth.nnm-list.ru/h/659/1/1/niu3uo4w
-
-#EXTINF: -1, Satisfaction Prive
-http://auth.nnm-list.ru/h/922/1/1/niu3uo4w
-
-#EXTINF: -1, Exotica TV
-http://auth.nnm-list.ru/h/919/1/1/niu3uo4w
-
-#EXTINF: -1, Pink O TV
-http://auth.nnm-list.ru/h/925/1/1/niu3uo4w
-
-#EXTINF: -1, Teleitalia TV
-http://auth.nnm-list.ru/h/921/1/1/niu3uo4w
-
-#EXTINF: -1, Redlight Premium
-http://auth.nnm-list.ru/h/918/1/1/niu3uo4w
-
-#EXTINF: -1, Brazzers TV Europe
-http://auth.nnm-list.ru/h/540/1/1/niu3uo4w
-
-night club
-http://iptv.multi-net.ru:80/udp/239.255.4.1:1234
-
-russian night
-http://iptv.multi-net.ru:80/udp/239.255.4.2:1234
-
-french Lover tv
-http://iptv.multi-net.ru:80/udp/239.255.4.4:1234
-
-temptaion
-http://iptv.multi-net.ru:80/udp/239.255.4.5:1234
-
-brazzers tv
-http://iptv.multi-net.ru:80/udp/239.255.4.7:1234
-#EXTINF:-1,xxx
-https://pornercdns.com/hls/0067000/67291/fullhd/fullhd.m3u8
-#EXTINF:-1,xxx2
-https://pornercdns.com/hls/0073000/73271/hd/hd.m3u8
-#EXTINF:-1,xxx3
-https://pornercdns.com/hls/0073000/73269/hd/hd.m3u8
-#EXTINF:-1,xxx1
-https://pornercdns.com/hls/0073000/73270/hd/hd.m3u8
-#EXTINF:-1,xxx
-https://pornercdns.com/hls/0073000/73272/hd/hd.m3u8
-#EXTINF:-1,xxx
-https://pornercdns.com/hls/0073000/73273/hd/hd.m3u8
-#EXTINF:-1,xxx
-https://pornercdns.com/hls/0073000/73268/hd/hd.m3u8
-#EXTINF:-1,Русская Ночь
-http://ua1.iptv.monster:80/play/132/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Blue Hustler TV
-http://ua1.iptv.monster:80/play/107/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Playboy
-http://ua1.iptv.monster:80/play/242/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Hustler HD Europe
-http://ua1.iptv.monster:80/play/592/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Passion XXX
-http://ua1.iptv.monster:80/play/596/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Satisfaction HD
-http://ua1.iptv.monster:80/play/598/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Brazzers TV Europe
-http://ua1.iptv.monster:80/play/76/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Barely Legal
-http://ua1.iptv.monster:80/play/4012/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Redlight HD
-http://ua1.iptv.monster:80/play/594/9392F8B590404CF/video.m3u8
-#EXTINF:-1,French Lover
-http://ua1.iptv.monster:80/play/1490/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Penthouse HD
-http://ua1.iptv.monster:80/play/1497/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Penthouse Gold HD
-http://ua1.iptv.monster:80/play/8848/9392F8B590404CF/video.m3u8
-#EXTINF:-1,Extasy 4K
-http://ua1.iptv.monster:80/play/8845/9392F8B590404CF/video.m3u8
-#EXTINF:-1,YOSSO TV SEXY
-http://ua1.iptv.monster:80/play/8774/9392F8B590404CF/video.m3u8
-
-#EXTINF:0 tvg-rec="3",Playboy
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/527/index.m3u8
-#EXTINF:0 tvg-rec="3",Русская Ночь
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/147/index.m3u8
-#EXTINF:0 tvg-rec="3",Brazzers TV Europe
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/910/index.m3u8
-#EXTINF:0 tvg-rec="3",Шалун
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/922/index.m3u8
-#EXTINF:0 tvg-rec="3",Candy
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/923/index.m3u8
-#EXTINF:0 tvg-rec="0",Penthouse TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/1073/index.m3u8
-#EXTINF:0 tvg-rec="0",Blue Hustler
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/1064/index.m3u8
-#EXTINF:0 tvg-rec="3",Barely legal
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/871/index.m3u8
-#EXTINF:0 tvg-rec="3",BRAZZERS TV Europe 2
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/872/index.m3u8
-#EXTINF:0 tvg-rec="3",Sexto Senso
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/875/index.m3u8
-#EXTINF:0 tvg-rec="0",SCT
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/876/index.m3u8
-#EXTINF:0 tvg-rec="3",PRIVE
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/877/index.m3u8
-#EXTINF:0 tvg-rec="3",Passion XXX
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/878/index.m3u8
-#EXTINF:0 tvg-rec="3",Redlight HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/242/index.m3u8
-#EXTINF:0 tvg-rec="3",Private TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/243/index.m3u8
-#EXTINF:0 tvg-rec="0",Hustler HD Europe
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/244/index.m3u8
-#EXTINF:0 tvg-rec="3",Dorcel TV HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/245/index.m3u8
-#EXTINF:0 tvg-rec="3",Pink'o TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/874/index.m3u8
-#EXTINF:0 tvg-rec="3",Нюарт TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2057/index.m3u8
-#EXTINF:0 tvg-rec="3",FrenchLover
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2160/index.m3u8
-#EXTINF:0 tvg-rec="3",O-la-la
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2161/index.m3u8
-#EXTINF:0 tvg-rec="1",Vivid Red HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2162/index.m3u8
-#EXTINF:0 tvg-rec="3",Exxxotica HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2397/index.m3u8
-#EXTINF:0 tvg-rec="3",XXL
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5009/index.m3u8
-#EXTINF:0 tvg-rec="3",Penthouse Passion
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5010/index.m3u8
-#EXTINF:0 tvg-rec="3",Penthouse Gold HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5011/index.m3u8
-#EXTINF:0 tvg-rec="3",Penthouse Quickies 1300k
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5012/index.m3u8
-#EXTINF:0 tvg-rec="3",Penthouse Quickies HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5013/index.m3u8
-#EXTINF:0 tvg-rec="3",Extasy 4K
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5014/index.m3u8
-#EXTINF:0 tvg-rec="3",Eroxxx HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5015/index.m3u8
-#EXTINF:0 tvg-rec="0",21 Sextury
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6164/index.m3u8
-#EXTINF:0 tvg-rec="0",A3 Bikini
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6165/index.m3u8
-#EXTINF:0 tvg-rec="0",Adult Time
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6166/index.m3u8
-#EXTINF:0 tvg-rec="0",Anal Red TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6167/index.m3u8
-#EXTINF:0 tvg-rec="0",Analized HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6168/index.m3u8
-#EXTINF:0 tvg-rec="0",AST TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6169/index.m3u8
-#EXTINF:0 tvg-rec="0",AST TV 2
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6170/index.m3u8
-#EXTINF:0 tvg-rec="0",Babes HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6171/index.m3u8
-#EXTINF:0 tvg-rec="0",Babes TV HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6172/index.m3u8
-#EXTINF:0 tvg-rec="0",Bang Bros HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6173/index.m3u8
-#EXTINF:0 tvg-rec="0",Bang!
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6174/index.m3u8
-#EXTINF:0 tvg-rec="0",Big Ass Adult TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6175/index.m3u8
-#EXTINF:0 tvg-rec="0",Big Dick Red TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6176/index.m3u8
-#EXTINF:0 tvg-rec="0",Big Tits Adult TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6177/index.m3u8
-#EXTINF:0 tvg-rec="0",Blacked HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6178/index.m3u8
-#EXTINF:0 tvg-rec="0",Blonde Adult TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6179/index.m3u8
-#EXTINF:0 tvg-rec="0",Blowjob Red TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6180/index.m3u8
-#EXTINF:0 tvg-rec="0",Brazzers eXXtra
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6181/index.m3u8
-#EXTINF:0 tvg-rec="0",Brazzers HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6182/index.m3u8
-#EXTINF:0 tvg-rec="0",Brunette Adult TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6183/index.m3u8
-#EXTINF:0 tvg-rec="0",cento x cento
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6184/index.m3u8
-#EXTINF:0 tvg-rec="0",Cherry Pimps
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6185/index.m3u8
-#EXTINF:0 tvg-rec="0",Club 17
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6186/index.m3u8
-#EXTINF:0 tvg-rec="0",Compilation Adult TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6187/index.m3u8
-#EXTINF:0 tvg-rec="0",Cuckold Red TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6188/index.m3u8
-#EXTINF:0 tvg-rec="0",Cum Louder
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6189/index.m3u8
-#EXTINF:0 tvg-rec="0",Cum4k
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6190/index.m3u8
-#EXTINF:0 tvg-rec="0",Daughter Swap
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6191/index.m3u8
-#EXTINF:0 tvg-rec="0",Day with a Pornstar
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6192/index.m3u8
-#EXTINF:0 tvg-rec="0",DDF Busty
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6193/index.m3u8
-#EXTINF:0 tvg-rec="0",DDF Network
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6194/index.m3u8
-#EXTINF:0 tvg-rec="0",Digital Desire HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6195/index.m3u8
-#EXTINF:0 tvg-rec="0",Digital Playground HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6196/index.m3u8
-#EXTINF:0 tvg-rec="0",Dorcel Club
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6197/index.m3u8
-#EXTINF:0 tvg-rec="0",Dusk
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6198/index.m3u8
-#EXTINF:0 tvg-rec="0",Evil Angel HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6199/index.m3u8
-#EXTINF:0 tvg-rec="0",Evolved Fights
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6200/index.m3u8
-#EXTINF:0 tvg-rec="0",Extasy HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6201/index.m3u8
-#EXTINF:0 tvg-rec="0",Fake Taxi HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6202/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV 2
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6203/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV 3
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6204/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV 4
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6205/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV Anal
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6206/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV BB
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6207/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV Compilation
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6208/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV Lesbian
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6209/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV Parody
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6210/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV Teens
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6211/index.m3u8
-#EXTINF:0 tvg-rec="0",FemJoy
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6212/index.m3u8
-#EXTINF:0 tvg-rec="0",Fetish Red TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6213/index.m3u8
-#EXTINF:0 tvg-rec="0",Gangbang Adult TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6214/index.m3u8
-#EXTINF:0 tvg-rec="0",Gay Adult TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6215/index.m3u8
-#EXTINF:0 tvg-rec="0",Got MYLF
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6216/index.m3u8
-#EXTINF:0 tvg-rec="0",Hands on Hardcore
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6217/index.m3u8
-#EXTINF:0 tvg-rec="0",Hard X
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6218/index.m3u8
-#EXTINF:0 tvg-rec="0",Hardcore Red TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6219/index.m3u8
-#EXTINF:0 tvg-rec="0",Hitzefrei HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6220/index.m3u8
-#EXTINF:0 tvg-rec="0",Holed
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6221/index.m3u8
-#EXTINF:0 tvg-rec="0",Hot and Mean
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6222/index.m3u8
-#EXTINF:0 tvg-rec="0",Hot Guys Fuck
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6223/index.m3u8
-#EXTINF:0 tvg-rec="0",Interracial Red TV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6224/index.m3u8
-#EXTINF:0 tvg-rec="0",Japan HDV
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6225/index.m3u8
-#EXTINF:0 tvg-rec="0",Latina Red TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6226/index.m3u8
-#EXTINF:0 tvg-rec="0",Lesbea
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6227/index.m3u8
-#EXTINF:0 tvg-rec="0",Lesbian Red TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6228/index.m3u8
-#EXTINF:0 tvg-rec="0",Lethal Hardcore
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6229/index.m3u8
-#EXTINF:0 tvg-rec="0",Little Asians HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6230/index.m3u8
-#EXTINF:0 tvg-rec="0",Live Cams Adult TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6231/index.m3u8
-#EXTINF:0 tvg-rec="0",Lust Cinema
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6232/index.m3u8
-#EXTINF:0 tvg-rec="0",MetArt HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6233/index.m3u8
-#EXTINF:0 tvg-rec="0",MILF Red TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6234/index.m3u8
-#EXTINF:0 tvg-rec="0",Monsters of Cock
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6235/index.m3u8
-#EXTINF:0 tvg-rec="0",MYLF TV HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6236/index.m3u8
-#EXTINF:0 tvg-rec="0",Naughty America
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6237/index.m3u8
-#EXTINF:0 tvg-rec="0",Nubiles TV HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6238/index.m3u8
-#EXTINF:0 tvg-rec="0",ox-ax HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6239/index.m3u8
-#EXTINF:0 tvg-rec="0",Pink Erotic 3
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6240/index.m3u8
-#EXTINF:0 tvg-rec="0",Pink Erotic 4
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6241/index.m3u8
-#EXTINF:0 tvg-rec="0",Playboy Plus
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6242/index.m3u8
-#EXTINF:0 tvg-rec="0",Pornstar Red TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6243/index.m3u8
-#EXTINF:0 tvg-rec="0",POV Adult TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6244/index.m3u8
-#EXTINF:0 tvg-rec="0",Private HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6245/index.m3u8
-#EXTINF:0 tvg-rec="0",Public Agent
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6246/index.m3u8
-#EXTINF:0 tvg-rec="0",Reality Kings HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6247/index.m3u8
-#EXTINF:0 tvg-rec="0",RK Prime
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6248/index.m3u8
-#EXTINF:0 tvg-rec="0",RK TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6249/index.m3u8
-#EXTINF:0 tvg-rec="0",Rough Adult TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6250/index.m3u8
-#EXTINF:0 tvg-rec="0",Russian Adult TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6251/index.m3u8
-#EXTINF:0 tvg-rec="0",Sex With Muslims
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6252/index.m3u8
-#EXTINF:0 tvg-rec="0",SexArt
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6253/index.m3u8
-#EXTINF:0 tvg-rec="0",sext 6 senso
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6254/index.m3u8
-#EXTINF:0 tvg-rec="0",SINematica
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6255/index.m3u8
-#EXTINF:0 tvg-rec="0",Teen Red TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6256/index.m3u8
-#EXTINF:0 tvg-rec="0",Threesome Red TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6257/index.m3u8
-#EXTINF:0 tvg-rec="0",Tiny4K
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6258/index.m3u8
-#EXTINF:0 tvg-rec="0",Trans Angels
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6259/index.m3u8
-#EXTINF:0 tvg-rec="0",True Amateurs
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6260/index.m3u8
-#EXTINF:0 tvg-rec="0",Tushy HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6261/index.m3u8
-#EXTINF:0 tvg-rec="0",TushyRAW
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6262/index.m3u8
-#EXTINF:0 tvg-rec="0",Visit-X TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6263/index.m3u8
-#EXTINF:0 tvg-rec="0",Vivid TV Europe
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6264/index.m3u8
-#EXTINF:0 tvg-rec="0",Vixen HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6265/index.m3u8
-#EXTINF:0 tvg-rec="0",We Live Together
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6266/index.m3u8
-#EXTINF:0 tvg-rec="0",White Boxxx
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6267/index.m3u8
-#EXTINF:0 tvg-rec="0",Wicked
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6268/index.m3u8
-#EXTINF:0 tvg-rec="0",Xpanded TV
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6269/index.m3u8
-#EXTINF:0 tvg-rec="0",Balkan Erotic
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6270/index.m3u8
-#EXTINF:0 tvg-rec="0",Bangerz
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6271/index.m3u8
-#EXTINF:0 tvg-rec="0",Emanuelle HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6272/index.m3u8
-#EXTINF:0 tvg-rec="0",Extreme
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6273/index.m3u8
-#EXTINF:0 tvg-rec="0",Fast Boyz
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6274/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6275/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT XXL HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6276/index.m3u8
-#EXTINF:0 tvg-rec="0",Hot Pleasure
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6277/index.m3u8
-#EXTINF:0 tvg-rec="0",Lesbian Affair
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6278/index.m3u8
-#EXTINF:0 tvg-rec="0",Oldtimer
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6279/index.m3u8
-#EXTINF:0 tvg-rec="0",Playboy LA
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6280/index.m3u8
-#EXTINF:0 tvg-rec="0",Red XXX
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6281/index.m3u8
-#EXTINF:0 tvg-rec="0",Sexy Hot
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6282/index.m3u8
-#EXTINF:0 tvg-rec="0",Taboo
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6283/index.m3u8
-#EXTINF:0 tvg-rec="0",Venus
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6284/index.m3u8
-#EXTINF:0 tvg-rec="0",X-MO
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6285/index.m3u8
-#EXTINF:0 tvg-rec="0",XY Max HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6286/index.m3u8
-#EXTINF:0 tvg-rec="0",XY Mix HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6287/index.m3u8
-#EXTINF:0 tvg-rec="0",XY Plus HD
-#EXTGRP:взрослые
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6288/index.m3u8
-#EXTINF:0 tvg-rec="0",Erotic
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6289/index.m3u8
-#EXTINF:0 tvg-rec="0",Erotic 2
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6290/index.m3u8
-#EXTINF:0 tvg-rec="0",Erotic 3
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6291/index.m3u8
-#EXTINF:0 tvg-rec="0",Erotic 4
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6292/index.m3u8
-#EXTINF:0 tvg-rec="0",Erotic 6
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6293/index.m3u8
-#EXTINF:0 tvg-rec="0",Erotic 7
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6294/index.m3u8
-#EXTINF:0 tvg-rec="0",Erotic 8
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6295/index.m3u8
-#EXTINF:0 tvg-rec="0",Erox HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6296/index.m3u8
-#EXTINF:0 tvg-rec="0",MvH Hard
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6297/index.m3u8
-#EXTINF:0 tvg-rec="0",SuperOne HD
-http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6298/index.m3u8
+#EXTINF:-1 group-title="Canais | Adulto",Playboy
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/527/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Brazzers TV Europe
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/910/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Blue Hustler
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/1064/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Barely legal
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/871/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",SCT
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/876/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Dorcel TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/878/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Redlight HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/242/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Private TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/243/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Hustler HD Europe
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/244/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Dorcel TV HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/245/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Pink'o TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/874/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",FrenchLover
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/2160/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",O-la-la
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/2161/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Vivid Red HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/2162/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Exxxotica HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/2397/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",XXL
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/5009/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Penthouse Passion
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/5010/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Penthouse Gold HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/5011/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Penthouse Reality TV HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/5012/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Penthouse Reality TV FHD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/5013/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Extasy 4K
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/5014/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Eroxxx HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/5015/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",A3 Bikini
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6165/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Adult Time
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6166/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Anal Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6167/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Analized HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6168/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Babes HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6171/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Babes TV HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6172/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Bang Bros HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6173/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Bang!
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6174/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Big Ass Adult TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6175/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Big Dick Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6176/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Big Tits Adult TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6177/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Blacked HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6178/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Blonde Adult TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6179/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Blowjob Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6180/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Brazzers eXXtra
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6181/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Brazzers HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6182/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Brunette Adult TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6183/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",cento x cento
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6184/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Cherry Pimps
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6185/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Club 17
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6186/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Compilation Adult TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6187/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Cuckold Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6188/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Cum Louder
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6189/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Cum4k
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6190/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Daughter Swap
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6191/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Day with a Pornstar
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6192/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",DDF Busty
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6193/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",DDF Network
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6194/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Digital Desire HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6195/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Digital Playground HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6196/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Dorcel Club
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6197/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Dusk
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6198/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Evil Angel HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6199/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Evolved Fights
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6200/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Extasy HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6201/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fake Taxi HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6202/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fap TV 2
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6203/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fap TV 3
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6204/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fap TV 4
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6205/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fap TV Anal
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6206/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fap TV BBW
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6207/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fap TV Compilation
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6208/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fap TV Lesbian
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6209/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fap TV Parody
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6210/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fap TV Teens
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6211/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",FemJoy
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6212/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fetish Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6213/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Gangbang Adult TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6214/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Got MYLF
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6216/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Hands on Hardcore
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6217/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Hard X
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6218/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Hardcore Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6219/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Hitzefrei HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6220/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Holed
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6221/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Hot and Mean
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6222/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Hot Guys Fuck
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6223/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Interracial Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6224/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Japan HDV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6225/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Latina Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6226/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Lesbea
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6227/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Lesbian Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6228/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Lethal Hardcore
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6229/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Little Asians HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6230/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Live Cams Adult TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6231/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Lust Cinema
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6232/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",MetArt HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6233/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",MILF Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6234/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Monsters of Cock
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6235/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",MYLF TV HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6236/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Naughty America
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6237/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Nubiles TV HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6238/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",ox-ax HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6239/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Pink Erotic 3
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6240/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Pink Erotic 4
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6241/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Playboy Plus
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6242/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Pornstar Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6243/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",POV Adult TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6244/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Private HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6245/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Public Agent
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6246/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Reality Kings HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6247/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",RK Prime
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6248/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",RK TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6249/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Rough Adult TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6250/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Russian Adult TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6251/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Sex With Muslims
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6252/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",SexArt
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6253/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",sext 6 senso
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6254/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",SINematica
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6255/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Teen Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6256/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Threesome Red TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6257/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Tiny4K
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6258/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",True Amateurs
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6260/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Tushy HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6261/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",TushyRAW
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6262/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Visit-X TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6263/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Vivid TV Europe
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6264/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Vixen HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6265/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",We Live Together
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6266/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",White Boxxx
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6267/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Wicked
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6268/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Xpanded TV
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6269/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Balkan Erotic
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6270/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Red Lips
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6271/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Leo TV HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6272/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Extreme
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6273/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Fast Boyz
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6274/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",HOT
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6275/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",HOT XXL HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6276/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Hot Pleasure
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6277/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Playboy LA
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6280/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Red XXX
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6281/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Sexy Hot
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6282/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Venus
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6284/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",X-MO
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6285/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",XY Max HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6286/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",XY Mix HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6287/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",XY Plus HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6288/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Erotic
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6289/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Erotic 2
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6290/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Erotic 3
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6291/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Erotic 4
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6292/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Erotic 6
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6293/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Erotic 7
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6294/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Erotic 8
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6295/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Erox HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6296/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",MvH Hard
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6297/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",SuperOne HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6298/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Dorcel HD orig
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/9064/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Hustler HD orig
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/9065/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Redlight HD orig
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/9066/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Dorcel TV HD orig
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/9067/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",O-La-La orig
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/9068/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Prokop TV XXX
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/19401/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",SKY HIGH SEX VR
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/19406/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",DE Blue Hustler
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/20023/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",DE Lust pur HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/20024/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",DE Penthouse Passion HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/20025/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",DE Playboy Europe
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/20026/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",CineMan ExExEx
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/20089/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",CineMan ExExEx TWO
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/20090/index.m3u
