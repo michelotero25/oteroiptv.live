@@ -1,404 +1,479 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ESPAÑA SAT",Portada
-http://62.37.6.216:8001/1:0:1:75c6:422:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD"  group-title="ESPAÑA SAT",LA 1
-http://62.37.6.216:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2"  group-title="ESPAÑA SAT",LA 2
-http://62.37.6.216:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD"  group-title="ESPAÑA SAT",ANTENA 3
-http://62.37.6.216:8001/1:0:1:772C:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD"  group-title="ESPAÑA SAT",CUATRO
-http://62.37.6.216:8001/1:0:1:7792:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD"  group-title="ESPAÑA SAT",TELECINCO
-http://62.37.6.216:8001/1:0:1:778C:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD"  group-title="ESPAÑA SAT",LA SEXTA
-http://62.37.6.216:8001/1:0:1:74A6:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS"  group-title="ESPAÑA SAT",24 HORAS
-http://62.37.6.216:8001/1:0:1:7738:416:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0 HD"  group-title="ESPAÑA SAT",#0
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7478:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="M.ESTRENOSHD"  group-title="ESPAÑA SAT",M. ESTRENOS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C0:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="M. ESTRENOS 2 HD"  group-title="ESPAÑA SAT",M. ESTRENOS 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7588:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="M. ACCIÓN HD"  group-title="ESPAÑA SAT",M. ACCIÓN
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746C:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. Fest" tvg-name="M. Fest"  group-title="ESPAÑA SAT",M. Fest
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:74FF:420:1:C00000:0:0:0
-#EXTINF:-1 tvg-id="M. BIOGRAFÍAS" tvg-name="M. BIOGRAFÍAS"  group-title="ESPAÑA SAT",M. BIOGRAFIAS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749d:41c:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="M.COMEDIA HD"  group-title="ESPAÑA SAT",M. COMEDIA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746D:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="M. DRAMA HD"  group-title="ESPAÑA SAT",M. DRAMA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746E:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="M. SERIES HD"  group-title="ESPAÑA SAT",M. SERIES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CA:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="M. SERIES  2 HD"  group-title="ESPAÑA SAT",M. SERIES 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7696:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="M. Cine Espaol"  group-title="ESPAÑA SAT",M. Cine Español
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7736:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="M. CLÁSICOS HD"  group-title="ESPAÑA SAT",M. Clásicos
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C6:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOODHD"  group-title="ESPAÑA SAT",HOLLYWOOD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C1:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV"  group-title="ESPAÑA SAT",SUNDANCE TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76A5:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD"  group-title="ESPAÑA SAT",TCM
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C7:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD"  group-title="ESPAÑA SAT",TNT
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76cb:40e:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD"  group-title="ESPAÑA SAT",FOX
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746F:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD"  group-title="ESPAÑA SAT",FOX LIFE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7468:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD"  group-title="ESPAÑA SAT",AMC
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CF:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD"  group-title="ESPAÑA SAT",CALLE 13
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7790:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD"  group-title="ESPAÑA SAT",SYFY
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7796:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD"  group-title="ESPAÑA SAT",COSMO
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7730:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD"  group-title="ESPAÑA SAT",AXN
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7477:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD"  group-title="ESPAÑA SAT",AXN WHITE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7471:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA"  group-title="ESPAÑA SAT",NOVA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7469:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX"  group-title="ESPAÑA SAT",NEOX
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7587:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT"  group-title="ESPAÑA SAT",PARAMOUNT
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:756B:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDYCENTRALHD"  group-title="ESPAÑA SAT",COMEDY CENTRAL
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C8:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="FDF" tvg-name="FDF"  group-title="ESPAÑA SAT",FDF
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BC:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY"  group-title="ESPAÑA SAT",DIVINITY
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749a:41c:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",MULTIDEPORTE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7692:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE"  group-title="ESPAÑA SAT",TELEDEPORTE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CC:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL"  group-title="ESPAÑA SAT",GOL
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A3:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="R. MADRID TV"  group-title="ESPAÑA SAT",R. MADRID TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7798:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="BARCA TV" tvg-name="BARÇA TV"  group-title="ESPAÑA SAT",Barça TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74a0:41c:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOSHD"  group-title="ESPAÑA SAT",#VAMOS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7733:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOSHD"  group-title="ESPAÑA SAT",#VAMOS HD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7734:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT1HD"  group-title="ESPAÑA SAT",Eurosport 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A1:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EUROSPORT 2"  group-title="ESPAÑA SAT",Eurosport 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74a7:41c:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="M. LaLiga HD"  group-title="ESPAÑA SAT",M. LaLiga
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7797:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-name="M. LaLiga 1 HD"  group-title="ESPAÑA SAT",M. LaLiga 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769D:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="M. LaLiga 2 HD"  group-title="ESPAÑA SAT",M. LaLiga 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BD:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="M. LaLiga 3 HD"  group-title="ESPAÑA SAT",M. LaLiga 3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7601:408:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD"  group-title="ESPAÑA SAT",DAZN F1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A4:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD"  group-title="ESPAÑA SAT",DAZN 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76A4:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD"  group-title="ESPAÑA SAT",DAZN 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772A:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3"  group-title="ESPAÑA SAT",DAZN 3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BE:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4"  group-title="ESPAÑA SAT",DAZN 4
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C0:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name="M.LCAMPEONES"  group-title="ESPAÑA SAT",M.LCAMPEONES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757B:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON1"  group-title="ESPAÑA SAT",M.LCAMPEON1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C3:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON 2 HD (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:74DB:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON2"  group-title="ESPAÑA SAT",M. LCAMPEON2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:760A:408:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M.LCAMPEON3"  group-title="ESPAÑA SAT",M.LCAMPEON3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77D8:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-name="M. DEPORTESHD"  group-title="ESPAÑA SAT",M. DEPORTES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778F:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7739:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C2:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="M. GOLF HD"  group-title="ESPAÑA SAT",M. GOLF
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7789:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS HD"  group-title="ESPAÑA SAT",TOROS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7570:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY"  group-title="ESPAÑA SAT",DISCOVERY
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772F:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEO HD"  group-title="ESPAÑA SAT",NAT GEO HD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7829:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEO HD"  group-title="ESPAÑA SAT",NAT GEOGRAPH
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778D:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NG WILD HD"  group-title="ESPAÑA SAT",NAT GEO WILD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7472:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA"  group-title="ESPAÑA SAT",HISTORIA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7731:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE"  group-title="ESPAÑA SAT",BLAZE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772D:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="CRIMEN+INVES"  group-title="ESPAÑA SAT",CRIMEN+INVES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7732:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZAyPESCA HD"  group-title="ESPAÑA SAT",CAZA Y PESCA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772B:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV"  group-title="ESPAÑA SAT",IBERALIA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746a:3f0:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="VIAJAR HD" tvg-name="VIAJAR HD"  group-title="ESPAÑA SAT",VIAJAR
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C9:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="CANAL DECASA"  group-title="ESPAÑA SAT",CANAL DECASA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7795:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA"  group-title="ESPAÑA SAT",CANAL COCINA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CE:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="CANAL ODISEA"  group-title="ESPAÑA SAT",CANAL ODISEA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778A:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",MEZZO
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7699:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="MTV ESPAÑA"  group-title="ESPAÑA SAT",MTV ESPAÑA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A2:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",NHK WORLD-JPN
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:139D:3EA:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="DISNEY CH HD"  group-title="ESPAÑA SAT",DISNEY CH
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C3:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="CLAN  TVE"  group-title="ESPAÑA SAT",CLAN TVE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C1:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DreamWorks HD"  group-title="ESPAÑA SAT",DREAMWOORKS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C7:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="BOING" tvg-name="BOING"  group-title="ESPAÑA SAT",BOING
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749E:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR"  group-title="ESPAÑA SAT",DISNEY JR
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746B:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR"  group-title="ESPAÑA SAT",NICK JR
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ESPAÑA SAT",Portada
-http://62.37.6.216:8001/1:0:1:75c6:422:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD"  group-title="ESPAÑA SAT",LA 1
-http://62.37.6.216:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2"  group-title="ESPAÑA SAT",LA 2
-http://62.37.6.216:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD"  group-title="ESPAÑA SAT",ANTENA 3
-http://62.37.6.216:8001/1:0:1:772C:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD"  group-title="ESPAÑA SAT",CUATRO
-http://62.37.6.216:8001/1:0:1:7792:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD"  group-title="ESPAÑA SAT",TELECINCO
-http://62.37.6.216:8001/1:0:1:778C:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD"  group-title="ESPAÑA SAT",LA SEXTA
-http://62.37.6.216:8001/1:0:1:74A6:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS"  group-title="ESPAÑA SAT",24 HORAS
-http://62.37.6.216:8001/1:0:1:7738:416:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0 HD"  group-title="ESPAÑA SAT",#0
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7478:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="M.ESTRENOSHD"  group-title="ESPAÑA SAT",M. ESTRENOS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C0:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="M. ESTRENOS 2 HD"  group-title="ESPAÑA SAT",M. ESTRENOS 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7588:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="M. ACCIÓN HD"  group-title="ESPAÑA SAT",M. ACCIÓN
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746C:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. Fest" tvg-name="M. Fest"  group-title="ESPAÑA SAT",M. Fest
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:74FF:420:1:C00000:0:0:0
-#EXTINF:-1 tvg-id="M. BIOGRAFÍAS" tvg-name="M. BIOGRAFÍAS"  group-title="ESPAÑA SAT",M. BIOGRAFIAS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749d:41c:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="M.COMEDIA HD"  group-title="ESPAÑA SAT",M. COMEDIA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746D:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="M. DRAMA HD"  group-title="ESPAÑA SAT",M. DRAMA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746E:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="M. SERIES HD"  group-title="ESPAÑA SAT",M. SERIES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CA:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="M. SERIES  2 HD"  group-title="ESPAÑA SAT",M. SERIES 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7696:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="M. Cine Espaol"  group-title="ESPAÑA SAT",M. Cine Español
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7736:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="M. CLÁSICOS HD"  group-title="ESPAÑA SAT",M. Clásicos
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C6:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOODHD"  group-title="ESPAÑA SAT",HOLLYWOOD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C1:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV"  group-title="ESPAÑA SAT",SUNDANCE TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76A5:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD"  group-title="ESPAÑA SAT",TCM
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C7:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD"  group-title="ESPAÑA SAT",TNT
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76cb:40e:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD"  group-title="ESPAÑA SAT",FOX
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746F:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD"  group-title="ESPAÑA SAT",FOX LIFE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7468:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD"  group-title="ESPAÑA SAT",AMC
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CF:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD"  group-title="ESPAÑA SAT",CALLE 13
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7790:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD"  group-title="ESPAÑA SAT",SYFY
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7796:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD"  group-title="ESPAÑA SAT",COSMO
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7730:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD"  group-title="ESPAÑA SAT",AXN
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7477:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD"  group-title="ESPAÑA SAT",AXN WHITE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7471:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA"  group-title="ESPAÑA SAT",NOVA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7469:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX"  group-title="ESPAÑA SAT",NEOX
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7587:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT"  group-title="ESPAÑA SAT",PARAMOUNT
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:756B:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDYCENTRALHD"  group-title="ESPAÑA SAT",COMEDY CENTRAL
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C8:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="FDF" tvg-name="FDF"  group-title="ESPAÑA SAT",FDF
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BC:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY"  group-title="ESPAÑA SAT",DIVINITY
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749a:41c:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",MULTIDEPORTE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7692:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE"  group-title="ESPAÑA SAT",TELEDEPORTE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CC:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL"  group-title="ESPAÑA SAT",GOL
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A3:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="R. MADRID TV"  group-title="ESPAÑA SAT",R. MADRID TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7798:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="BARCA TV" tvg-name="BARÇA TV"  group-title="ESPAÑA SAT",Barça TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74a0:41c:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOSHD"  group-title="ESPAÑA SAT",#VAMOS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7733:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOSHD"  group-title="ESPAÑA SAT",#VAMOS HD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7734:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT1HD"  group-title="ESPAÑA SAT",Eurosport 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A1:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EUROSPORT 2"  group-title="ESPAÑA SAT",Eurosport 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74a7:41c:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="M. LaLiga HD"  group-title="ESPAÑA SAT",M. LaLiga
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7797:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-name="M. LaLiga 1 HD"  group-title="ESPAÑA SAT",M. LaLiga 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769D:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="M. LaLiga 2 HD"  group-title="ESPAÑA SAT",M. LaLiga 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BD:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="M. LaLiga 3 HD"  group-title="ESPAÑA SAT",M. LaLiga 3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7601:408:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD"  group-title="ESPAÑA SAT",DAZN F1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A4:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD"  group-title="ESPAÑA SAT",DAZN 1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76A4:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD"  group-title="ESPAÑA SAT",DAZN 2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772A:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3"  group-title="ESPAÑA SAT",DAZN 3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BE:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4"  group-title="ESPAÑA SAT",DAZN 4
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C0:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name="M.LCAMPEONES"  group-title="ESPAÑA SAT",M.LCAMPEONES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757B:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON1"  group-title="ESPAÑA SAT",M.LCAMPEON1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C3:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON 2 HD (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:74DB:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON2"  group-title="ESPAÑA SAT",M. LCAMPEON2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:760A:408:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M.LCAMPEON3"  group-title="ESPAÑA SAT",M.LCAMPEON3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77D8:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-name="M. DEPORTESHD"  group-title="ESPAÑA SAT",M. DEPORTES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778F:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES1
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7739:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES2
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C2:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="M. GOLF HD"  group-title="ESPAÑA SAT",M. GOLF
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7789:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS HD"  group-title="ESPAÑA SAT",TOROS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7570:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY"  group-title="ESPAÑA SAT",DISCOVERY
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772F:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEO HD"  group-title="ESPAÑA SAT",NAT GEO HD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:19:7829:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEO HD"  group-title="ESPAÑA SAT",NAT GEOGRAPH
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778D:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NG WILD HD"  group-title="ESPAÑA SAT",NAT GEO WILD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7472:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA"  group-title="ESPAÑA SAT",HISTORIA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7731:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE"  group-title="ESPAÑA SAT",BLAZE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772D:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="CRIMEN+INVES"  group-title="ESPAÑA SAT",CRIMEN+INVES
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7732:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZAyPESCA HD"  group-title="ESPAÑA SAT",CAZA Y PESCA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:772B:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV"  group-title="ESPAÑA SAT",IBERALIA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746a:3f0:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="VIAJAR HD" tvg-name="VIAJAR HD"  group-title="ESPAÑA SAT",VIAJAR
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C9:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="CANAL DECASA"  group-title="ESPAÑA SAT",CANAL DECASA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7795:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA"  group-title="ESPAÑA SAT",CANAL COCINA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76CE:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="CANAL ODISEA"  group-title="ESPAÑA SAT",CANAL ODISEA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778A:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",MEZZO
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7699:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="MTV ESPAÑA"  group-title="ESPAÑA SAT",MTV ESPAÑA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:74A2:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",NHK WORLD-JPN
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:139D:3EA:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="DISNEY CH HD"  group-title="ESPAÑA SAT",DISNEY CH
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C3:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="CLAN  TVE"  group-title="ESPAÑA SAT",CLAN TVE
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C1:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DreamWorks HD"  group-title="ESPAÑA SAT",DREAMWOORKS
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C7:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="BOING" tvg-name="BOING"  group-title="ESPAÑA SAT",BOING
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749E:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR"  group-title="ESPAÑA SAT",DISNEY JR
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:746B:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR"  group-title="ESPAÑA SAT",NICK JR
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7697:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA"  group-title="ESPAÑA SAT",CANAL PANDA
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:76C4:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV"  group-title="ESPAÑA SAT",BABY TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:749C:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="Canal Sur HD." tvg-name="CANAL SUR A."  group-title="ESPAÑA SAT",CANAL SUR A.
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7729:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="TVGA" tvg-name="TV GALICIA HD"  group-title="ESPAÑA SAT",GALICIA HD
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:18f1:3f4:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="EXTREMADURA SAT" tvg-name="EXTREMADURA SAT"  group-title="ESPAÑA SAT",EXTREMADURA SAT
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:18f0:3f4:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="ARAGON TV INT" tvg-name="ARAGON TV INT"  group-title="ESPAÑA SAT",ARAGON TV
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7473:3f0:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-name="M.LCAMPEON 4 (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON4
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C4:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.LCAMPEON 5 (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON5
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757D:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.LCAMPEON 6 (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON6
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757C:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M.LCAMPEON 7 (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M.LCAMPEON7
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769C:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M.LCAMPEON8
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7576:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M.LCAMPEONES X
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:760E:408:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="M. LaLiga 4 (SOLO EVENTOS)"  group-title="ESPAÑA SAT",M. LaLiga 4
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C9:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="M. LaLiga 5" tvg-name="M. LaLiga 5 HD"  group-title="ESPAÑA SAT",M. LaLiga 5
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7579:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. LaLiga 6
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7607:408:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. LaLiga 7
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:756E:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. LaLiga 8
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7690:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. LaLiga 9
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7581:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. LaLiga 10
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7578:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES3
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BF:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES4
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C8:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES5
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769B:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES6
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7575:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",M. DEPORTES7
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:756D:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",Playboy
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:778b:424:1:c00000:0:0:0:
-#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ESPAÑA SAT",Vivid XXX
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:16:FE0:451:35:C00000:0:0:0:
+ 
+#EXTINF:-1 group-title="Lista es13", MOVISTAR PLUS+ HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324666&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M+ CRACKS HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324668&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M+ DOCUMENTALES HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324667&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", SMARTBANK TV FHD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=995326&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", SMARTBANK TV HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=995327&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", SMARTBANK 2 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1333772&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", GOL
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107598&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", BARCA TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107626&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", R. MADRID TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107538&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. GOLF HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107574&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. GOLF 2 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1334473&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107564&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. GOLF HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119006&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LALIGATV BAR HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107591&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LALIGA TV BAR HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119011&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA FHD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=915236&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 1 FHD (1080P)
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477159&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 1 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107567&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 1 HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119005&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 2 FHD (1080P)
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477160&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 2 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107566&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 3 FHD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=915235&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 3 HD [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107565&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 4 FHD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=915237&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 4 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=915238&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LA LIGA 4 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=557397&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 6 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107569&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 7 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107570&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 8 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107571&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 9 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107572&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. LALIGA 10 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107573&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13",  GOL MUNDIAL 1 4K
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324680&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13",  GOL MUNDIAL 1 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324679&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13",  GOL MUNDIAL 2 4K
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324678&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13",  GOL MUNDIAL 2 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324677&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13",  GOL MUNDIAL 3 4K
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324676&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13",  GOL MUNDIAL 3 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324675&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13",  GOL MUNDIAL 4 4K
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324674&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13",  GOL MUNDIAL 4 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324673&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13",  GOL MUNDIAL 5 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324671&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", #VAMOS HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107634&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.FORMULA1 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107559&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.FORMULA1 HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=118999&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", #VAMOS HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119027&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", EUROSPORT 1 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107603&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", EUROSPORT1 HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119017&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", EUROSPORT 2
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107604&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ESPORT 3 CATALUNYA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=840589&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DEPORTES HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107577&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DEPORTES HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119008&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DEPORTES1 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107580&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DEPORTES1 HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119009&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DEPORTES3 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107578&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DEPORTES4 (LIVEEVEENT)
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107581&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DEPORTES5 (LIVEEVEENT)
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107582&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DEPORTES6 (LIVEEVEENT)
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107583&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DEPORTES7 (LIVEEVEENT)
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107584&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LALIGA123 HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477216&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LALIGA 123 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=408217&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LALIGATVBAR1 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107590&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LALIGATVBAR2 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107589&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LALIGATVBAR3 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107588&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LALIGATVBAR4 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107587&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", MULTIDEPORTE
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107546&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEONES HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=118998&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEONES 2 FHD (1080P)
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477162&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEON1 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107553&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEON2 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107552&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEON3 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107551&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEON 4 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107554&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEON 5 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107555&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEONES 6 SD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=915226&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEON 6 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107556&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEON 7 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107557&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.LCAMPEON 8 [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107558&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", TELEDEPORTE
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107533&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ONETORO
+http://bgaddon37.000webhostapp.com/mcc.php?stream=118988&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ONETORO (BK)
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1183433&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", EL TORO TV HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=920269&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOX SPORTS PREMIUM
+http://bgaddon37.000webhostapp.com/mcc.php?stream=984953&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOX SPORTS 1 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=984950&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOX SPORTS 2 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=984951&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOX SPORTS 3 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=984952&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ##### ESP FOOTTERS #####
+http://bgaddon37.000webhostapp.com/mcc.php?stream=546534&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOOTTERS 1 FHD [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=546535&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOOTTERS 2 FHD [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=546536&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOOTTERS 3 FHD [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=546537&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOOTTERS 4 FHD [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=546538&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOOTTERS 5 FHD [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=546539&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOOTTERS 6 FHD [LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=546541&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+
+
+#EXTINF:-1 group-title="Lista es13", M+ SUSPENSE HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1324670&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. ORIGINALES HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107635&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. ORIGINALES HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119028&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M+ INDIE HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107632&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M+ INDIE HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119026&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. CINE ESPANOL HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107585&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. ACCION HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107586&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. ACCION HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119010&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. CINE HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107560&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. CINE HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119000&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DRAMA HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107575&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. DRAMA HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119007&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M.COMEDIA HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107561&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. SERIES HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107563&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. SERIES HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119003&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", M. CLASSICOS
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1141668&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", AXN HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107629&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", AXN HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119024&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", AXN MOVIES HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107628&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", AXN MOVIES HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119023&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOX HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107601&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOX HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119016&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", COSMO HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107612&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", COSMO HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119019&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", WARNERBROS HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107532&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", WARNERBROS HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=118989&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", SYFY HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=118992&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CALLE 13 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107622&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CALLE 13 HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119022&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", SUNDANCE TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107537&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", HOLLYWOOD HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107596&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", HOLLYWOOD HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119014&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", PARAMOUNT
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107539&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", COMEDY CENTRAL HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107613&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", COMEDY CENTRAL HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119020&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", TCM HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107535&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", XTRM
+http://bgaddon37.000webhostapp.com/mcc.php?stream=174330&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", TCM HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=118991&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", SOMOS HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=826733&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ALQUILER 1 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=257822&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ALQUILER 2
+http://bgaddon37.000webhostapp.com/mcc.php?stream=846225&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2022 1
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924531&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2022 2
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924532&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2022 3
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924533&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2021 1
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924521&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2021 2
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924522&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2021 3
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924523&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2021 4
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924524&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2021 5
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924525&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2021 6
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924526&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2021 7
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924527&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2021 8
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924528&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2021 10
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924530&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2020 1
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924516&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2020 2
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924517&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2020 3
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924518&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2020 4
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924519&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2020 5
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924520&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 1
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924510&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24\/7 PELICULAS 2
+http://bgaddon37.000webhostapp.com/mcc.php?stream=924511&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+
+#EXTINF:-1 group-title="Lista es13", LA 1 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107594&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LA 1 HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119013&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LA 2
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107593&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ANTENA 3 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107631&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ANTENA 3 HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119025&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ANTENA 3 INT.
+http://bgaddon37.000webhostapp.com/mcc.php?stream=136724&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CUATRO HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107610&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CUATRO HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119018&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", TELECINCO HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107534&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", TELECINCO HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=118990&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LA SEXTA HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107592&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LA SEXTA HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119012&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", EXTRAMADUR HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=871353&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", NEOX
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107544&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", NOVA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107540&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DARK HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=174335&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CLAN TVE
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107615&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ENERGY
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107605&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FDF
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107602&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", MEGA HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107645&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", A3 SERIES HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107647&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", TEN
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107636&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CAZAVISION
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1144739&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", LA RESISTENCIA HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1060884&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24 HORAS HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=835061&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 24 HORAS
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107633&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", TVE INTERNACIONAL
+http://bgaddon37.000webhostapp.com/mcc.php?stream=245623&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", TV3 CAT
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107646&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", FOX NEWS
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107599&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ARAGON TV INT
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107630&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", TELEMADRID
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107640&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", IB3
+http://bgaddon37.000webhostapp.com/mcc.php?stream=272000&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CANAL SUR A.
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107617&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", HIT TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=228475&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", 13 TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=228476&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DKISS
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107639&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", TV GIRONA HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=228500&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ALCARRIA TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=228496&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", INTERALMER\u00cdA TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=228485&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", RTVC  CANARIAS HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=228482&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CONDAVISION HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=228481&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", KARAOKE 1
+http://bgaddon37.000webhostapp.com/mcc.php?stream=890216&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ALL FLAMENGO HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1294669&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", MTV ESPANA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107547&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", MEZZO LIVE HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107548&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", MEZZO LIVE HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=118996&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CANAL M\u00c1LAGA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477180&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", INTERALMER\u00cdA TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477176&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+
+
+#EXTINF:-1 group-title="Lista es13", DAZN LALIGA SD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=986641&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN LALIGA HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=986640&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN LALIGA 4K
+http://bgaddon37.000webhostapp.com/mcc.php?stream=986639&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN LALIGA 2 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1347433&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN FORMULA1 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=978374&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN 1 HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107638&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN [ LIVEEVENT]
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107637&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN 1
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477170&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN 2
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477169&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN 3
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477168&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN 4
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477167&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN 5
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477166&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN 6
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477165&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DAZN 8
+http://bgaddon37.000webhostapp.com/mcc.php?stream=477163&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+
+
+#EXTINF:-1 group-title="Lista es13", NAT GEO HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107545&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", NAT GEO HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=118995&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", NG WILD HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107543&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", NG WILD HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=118994&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CAZAYPESCA HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107616&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CAZAYPESCA HEVC
+http://bgaddon37.000webhostapp.com/mcc.php?stream=119021&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", IBERALIA TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107595&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", IBERALIA TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=174333&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", COSTA DEL SOL TV
+http://bgaddon37.000webhostapp.com/mcc.php?stream=174334&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", ODISEA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=174331&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", HISTORIA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107597&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DISCOVERY
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107609&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DISCOVERY FAMILIA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=1014512&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DMAX
+http://bgaddon37.000webhostapp.com/mcc.php?stream=842314&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CANAL COCINA  HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=636559&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CANAL COCINA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107621&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CANAL DECASA  HD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=636560&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CANAL DECASA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107620&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CANAL ODISEA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107619&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CLASSICA
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107614&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", CRIMEN INVES
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107611&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", BE MAD
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107625&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
+#EXTINF:-1 group-title="Lista es13", DIVINITY
+http://bgaddon37.000webhostapp.com/mcc.php?stream=107606&mac=00:1A:79:0E:11:CA&server=line.rs6ott.com
